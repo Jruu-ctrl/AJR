@@ -1,0 +1,2287 @@
+WARNING    - 2025-03-26 04:12:39,037 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-26 04:12:39,038 - bot            : Privileged message content intent is missing, commands may not work as expected.
+INFO       - 2025-03-26 04:12:39,039 - client         : logging in using static token
+INFO       - 2025-03-26 04:12:40,360 - gateway        : Shard ID None has connected to Gateway (Session ID: 58bfeceaea063101bfb52d2342e5f531).
+WARNING    - 2025-03-27 02:08:55,757 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-27 02:08:55,759 - bot            : Privileged message content intent is missing, commands may not work as expected.
+INFO       - 2025-03-27 02:08:55,759 - client         : logging in using static token
+INFO       - 2025-03-27 02:08:57,145 - gateway        : Shard ID None has connected to Gateway (Session ID: 4f177eee25389374fe7166787df525b7).
+WARNING    - 2025-03-27 02:11:23,108 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:11:23,110 - client         : logging in using static token
+WARNING    - 2025-03-27 02:11:36,926 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:11:36,927 - client         : logging in using static token
+WARNING    - 2025-03-27 02:12:12,814 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:12:12,815 - client         : logging in using static token
+WARNING    - 2025-03-27 02:12:30,610 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:12:30,611 - client         : logging in using static token
+WARNING    - 2025-03-27 02:15:03,210 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-27 02:15:03,211 - bot            : Privileged message content intent is missing, commands may not work as expected.
+INFO       - 2025-03-27 02:15:03,211 - client         : logging in using static token
+INFO       - 2025-03-27 02:15:04,564 - gateway        : Shard ID None has connected to Gateway (Session ID: 4b350ce51cce0b56b02e6d857ecf2eac).
+WARNING    - 2025-03-27 02:15:52,405 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-27 02:15:52,406 - bot            : Privileged message content intent is missing, commands may not work as expected.
+INFO       - 2025-03-27 02:15:52,406 - client         : logging in using static token
+INFO       - 2025-03-27 02:15:53,602 - gateway        : Shard ID None has connected to Gateway (Session ID: 674082df35eeedf93bb3c950f0d71f43).
+WARNING    - 2025-03-27 02:19:21,729 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:19:21,730 - client         : logging in using static token
+WARNING    - 2025-03-27 02:22:00,646 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-27 02:22:00,647 - bot            : Privileged message content intent is missing, commands may not work as expected.
+INFO       - 2025-03-27 02:22:00,647 - client         : logging in using static token
+INFO       - 2025-03-27 02:22:02,076 - gateway        : Shard ID None has connected to Gateway (Session ID: 6ed4df8582e3111b6c6c35440842a28c).
+WARNING    - 2025-03-27 02:29:52,844 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:29:52,845 - client         : logging in using static token
+INFO       - 2025-03-27 02:29:54,123 - gateway        : Shard ID None has connected to Gateway (Session ID: 6557da89934e4b24cfe3181505e362da).
+WARNING    - 2025-03-27 02:30:33,978 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:30:33,980 - client         : logging in using static token
+INFO       - 2025-03-27 02:30:35,114 - gateway        : Shard ID None has connected to Gateway (Session ID: f74d11028ebd1f6574b113558bfcbec0).
+WARNING    - 2025-03-27 02:34:26,495 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:34:26,496 - client         : logging in using static token
+INFO       - 2025-03-27 02:34:27,729 - gateway        : Shard ID None has connected to Gateway (Session ID: 387162da2fb8fa15794e85241e3107d4).
+ERROR      - 2025-03-27 02:34:50,884 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "hello" is not found
+ERROR      - 2025-03-27 02:35:19,912 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "hello" is not found
+WARNING    - 2025-03-27 02:35:29,113 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:35:29,114 - client         : logging in using static token
+INFO       - 2025-03-27 02:35:30,307 - gateway        : Shard ID None has connected to Gateway (Session ID: 61b3053f720bd1ccc39118e6922223f1).
+ERROR      - 2025-03-27 02:35:38,241 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "hello" is not found
+WARNING    - 2025-03-27 02:38:48,484 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:38:48,486 - client         : logging in using static token
+INFO       - 2025-03-27 02:38:49,642 - gateway        : Shard ID None has connected to Gateway (Session ID: a8ff72cbdb161741434787a91d1e7179).
+WARNING    - 2025-03-27 02:41:30,373 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:41:30,374 - client         : logging in using static token
+INFO       - 2025-03-27 02:41:31,850 - gateway        : Shard ID None has connected to Gateway (Session ID: b131d9eabd363cad9dd00b648e684bd9).
+WARNING    - 2025-03-27 02:41:58,224 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:41:58,225 - client         : logging in using static token
+INFO       - 2025-03-27 02:42:03,717 - gateway        : Shard ID None has connected to Gateway (Session ID: 19cf9fdb76fcb818eec8eb0e05c7db25).
+WARNING    - 2025-03-27 02:42:29,003 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:42:29,005 - client         : logging in using static token
+INFO       - 2025-03-27 02:42:30,244 - gateway        : Shard ID None has connected to Gateway (Session ID: 4a7a92857988358b53b8ccee6cb4cf16).
+WARNING    - 2025-03-27 02:44:37,823 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:44:37,824 - client         : logging in using static token
+INFO       - 2025-03-27 02:44:39,050 - gateway        : Shard ID None has connected to Gateway (Session ID: 3ac1b8a1a1c9303e5efbdb156b7afabf).
+WARNING    - 2025-03-27 02:44:57,589 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:44:57,590 - client         : logging in using static token
+INFO       - 2025-03-27 02:44:58,788 - gateway        : Shard ID None has connected to Gateway (Session ID: aa06244b7761c7efb8bc38427d501c0a).
+ERROR      - 2025-03-27 02:45:11,270 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "hello" is not found
+WARNING    - 2025-03-27 02:47:03,271 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:47:03,273 - client         : logging in using static token
+INFO       - 2025-03-27 02:47:04,569 - gateway        : Shard ID None has connected to Gateway (Session ID: 7fac5bbeafaaf6033129da524c479110).
+ERROR      - 2025-03-27 02:47:12,036 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "say" is not found
+ERROR      - 2025-03-27 02:47:18,363 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "say_hello" is not found
+ERROR      - 2025-03-27 02:47:25,848 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "say_hello" is not found
+WARNING    - 2025-03-27 02:48:53,395 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:48:53,397 - client         : logging in using static token
+INFO       - 2025-03-27 02:48:54,509 - gateway        : Shard ID None has connected to Gateway (Session ID: 5b8e3cbb3375533b66fd6be3eac546b6).
+ERROR      - 2025-03-27 02:49:04,269 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "hello" is not found
+WARNING    - 2025-03-27 02:50:06,379 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:50:06,380 - client         : logging in using static token
+INFO       - 2025-03-27 02:50:07,473 - gateway        : Shard ID None has connected to Gateway (Session ID: 4b8b8c65f65c043cd83c5cf1211b4edb).
+WARNING    - 2025-03-27 02:51:09,558 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:51:09,559 - client         : logging in using static token
+INFO       - 2025-03-27 02:51:10,724 - gateway        : Shard ID None has connected to Gateway (Session ID: f857b12528b767a6ff5a7075d33e842a).
+WARNING    - 2025-03-27 02:53:15,470 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:53:15,472 - client         : logging in using static token
+INFO       - 2025-03-27 02:53:16,938 - gateway        : Shard ID None has connected to Gateway (Session ID: 089ceb7c28140b45cb201689b6eb7577).
+WARNING    - 2025-03-27 02:57:20,023 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:57:20,025 - client         : logging in using static token
+INFO       - 2025-03-27 02:57:21,127 - gateway        : Shard ID None has connected to Gateway (Session ID: 41be17ac68e0c8217b92fa550b57b1ae).
+WARNING    - 2025-03-27 02:59:42,124 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 02:59:42,125 - client         : logging in using static token
+INFO       - 2025-03-27 02:59:43,382 - gateway        : Shard ID None has connected to Gateway (Session ID: 841fc8497cce28c3131c59e15197506a).
+WARNING    - 2025-03-27 03:01:03,370 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:01:03,372 - client         : logging in using static token
+INFO       - 2025-03-27 03:01:05,257 - gateway        : Shard ID None has connected to Gateway (Session ID: f9f1043f745bf5c04cd37cf4fcac8189).
+ERROR      - 2025-03-27 03:02:44,447 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "say" is not found
+ERROR      - 2025-03-27 03:02:50,734 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "say" is not found
+WARNING    - 2025-03-27 03:02:56,213 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:02:56,214 - client         : logging in using static token
+INFO       - 2025-03-27 03:02:57,413 - gateway        : Shard ID None has connected to Gateway (Session ID: f6fa9d6fa19241d6734b0c7fdd6fca33).
+ERROR      - 2025-03-27 03:03:03,960 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "say" is not found
+ERROR      - 2025-03-27 03:03:07,033 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "say" is not found
+WARNING    - 2025-03-27 03:03:34,836 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:03:34,838 - client         : logging in using static token
+INFO       - 2025-03-27 03:03:35,964 - gateway        : Shard ID None has connected to Gateway (Session ID: 6e73d77f170a1ac26b49b21e8b2b03ce).
+WARNING    - 2025-03-27 03:07:26,468 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:07:26,471 - client         : logging in using static token
+INFO       - 2025-03-27 03:07:28,611 - gateway        : Shard ID None has connected to Gateway (Session ID: 7c8627e3762b5326aa0e233d12e48315).
+ERROR      - 2025-03-27 03:07:59,162 - bot            : Ignoring exception in command say2
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 40, in say2
+    await ctx.send(""+what)
+                   ~~^~~~~
+TypeError: can only concatenate str (not "tuple") to str
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: can only concatenate str (not "tuple") to str
+WARNING    - 2025-03-27 03:09:09,222 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:09:09,223 - client         : logging in using static token
+INFO       - 2025-03-27 03:09:10,447 - gateway        : Shard ID None has connected to Gateway (Session ID: f4304f61eeb6d9c2c995605cbca4909b).
+WARNING    - 2025-03-27 03:14:15,082 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:14:15,083 - client         : logging in using static token
+INFO       - 2025-03-27 03:14:16,268 - gateway        : Shard ID None has connected to Gateway (Session ID: e9ff9752548dec25f0b1ecc7b2dc0e65).
+ERROR      - 2025-03-27 03:14:28,298 - bot            : Ignoring exception in command say2
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 40, in say2
+    await ctx.send(" "+what)
+                   ~~~^~~~~
+TypeError: can only concatenate str (not "tuple") to str
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: can only concatenate str (not "tuple") to str
+WARNING    - 2025-03-27 03:15:58,944 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:15:58,945 - client         : logging in using static token
+INFO       - 2025-03-27 03:16:00,206 - gateway        : Shard ID None has connected to Gateway (Session ID: e18040ac9d80a4722834486560140ec7).
+WARNING    - 2025-03-27 03:16:46,567 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:16:46,569 - client         : logging in using static token
+INFO       - 2025-03-27 03:16:47,954 - gateway        : Shard ID None has connected to Gateway (Session ID: a27653b30c117fa5064838b37533c94b).
+WARNING    - 2025-03-27 03:18:37,285 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:18:37,287 - client         : logging in using static token
+INFO       - 2025-03-27 03:18:38,579 - gateway        : Shard ID None has connected to Gateway (Session ID: b7b6e437f1adce4471da02fefeb466f8).
+WARNING    - 2025-03-27 03:21:28,017 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-27 03:22:03,505 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:22:03,506 - client         : logging in using static token
+INFO       - 2025-03-27 03:22:04,821 - gateway        : Shard ID None has connected to Gateway (Session ID: 16525831e40745493deca4eb01fd540e).
+WARNING    - 2025-03-27 03:27:10,446 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:27:10,448 - client         : logging in using static token
+INFO       - 2025-03-27 03:27:11,810 - gateway        : Shard ID None has connected to Gateway (Session ID: d28b3ac504f02403b6aaabce2ce076ad).
+ERROR      - 2025-03-27 03:28:07,779 - bot            : Ignoring exception in command choix
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 49, in choix
+    await ctx.send(random.choice(option))
+                   ~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Program Files\Python313\Lib\random.py", line 351, in choice
+    raise IndexError('Cannot choose from an empty sequence')
+IndexError: Cannot choose from an empty sequence
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: IndexError: Cannot choose from an empty sequence
+WARNING    - 2025-03-27 03:33:37,978 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:33:37,979 - client         : logging in using static token
+INFO       - 2025-03-27 03:33:39,173 - gateway        : Shard ID None has connected to Gateway (Session ID: cf8bba2a7c4a0b07d1d006977a59d6fb).
+ERROR      - 2025-03-27 03:33:57,900 - bot            : Ignoring exception in command choix
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 49, in choix
+    await ctx.send(random.choice(option).join <3 )
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: '<' not supported between instances of 'builtin_function_or_method' and 'int'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: '<' not supported between instances of 'builtin_function_or_method' and 'int'
+ERROR      - 2025-03-27 03:34:11,705 - bot            : Ignoring exception in command choix
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 49, in choix
+    await ctx.send(random.choice(option).join <3 )
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: '<' not supported between instances of 'builtin_function_or_method' and 'int'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: '<' not supported between instances of 'builtin_function_or_method' and 'int'
+WARNING    - 2025-03-27 03:34:39,344 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:34:39,345 - client         : logging in using static token
+INFO       - 2025-03-27 03:34:40,606 - gateway        : Shard ID None has connected to Gateway (Session ID: 38fe0fb008bb814083c1237267bf01a3).
+WARNING    - 2025-03-27 03:35:21,149 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:35:21,151 - client         : logging in using static token
+INFO       - 2025-03-27 03:35:22,308 - gateway        : Shard ID None has connected to Gateway (Session ID: d99dbb1737156d28fb1c09a00f0611c9).
+WARNING    - 2025-03-27 03:38:48,633 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:38:48,634 - client         : logging in using static token
+INFO       - 2025-03-27 03:38:49,919 - gateway        : Shard ID None has connected to Gateway (Session ID: b0aa1d948ff9afed254438a714e31946).
+WARNING    - 2025-03-27 03:39:35,136 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:39:35,138 - client         : logging in using static token
+INFO       - 2025-03-27 03:39:36,379 - gateway        : Shard ID None has connected to Gateway (Session ID: 1e6a7daff37c22d63d266e05c15fd092).
+WARNING    - 2025-03-27 03:46:46,971 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-27 03:46:58,311 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:46:58,312 - client         : logging in using static token
+INFO       - 2025-03-27 03:46:59,740 - gateway        : Shard ID None has connected to Gateway (Session ID: 6719ee53129c2afd6ffbd28b478a2519).
+ERROR      - 2025-03-27 03:47:30,571 - bot            : Ignoring exception in command join
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 715, in transform
+    return await run_converters(ctx, converter, argument, param)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 1444, in run_converters
+    return await _actual_conversion(ctx, converter, argument, param)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 1326, in _actual_conversion
+    return await converter().convert(ctx, argument)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 281, in convert
+    raise MemberNotFound(argument)
+discord.ext.commands.errors.MemberNotFound: Member "lil" not found.
+WARNING    - 2025-03-27 03:49:31,289 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-27 03:51:10,520 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:51:10,522 - client         : logging in using static token
+INFO       - 2025-03-27 03:51:11,730 - gateway        : Shard ID None has connected to Gateway (Session ID: 2350f2c4b3d8ad05ffdcf42be389ebab).
+ERROR      - 2025-03-27 03:51:20,650 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "join" is not found
+ERROR      - 2025-03-27 03:51:31,582 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "join" is not found
+ERROR      - 2025-03-27 03:51:49,050 - bot            : Ignoring exception in command name
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 57, in name
+    await ctx.reply(who + who.id)
+                    ~~~~^~~~~~~~
+TypeError: unsupported operand type(s) for +: 'Member' and 'int'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: unsupported operand type(s) for +: 'Member' and 'int'
+WARNING    - 2025-03-27 03:52:19,050 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:52:19,051 - client         : logging in using static token
+INFO       - 2025-03-27 03:52:20,273 - gateway        : Shard ID None has connected to Gateway (Session ID: 751d963393fc11e6d90f5ddc2970e0b7).
+WARNING    - 2025-03-27 03:53:06,786 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:53:06,787 - client         : logging in using static token
+INFO       - 2025-03-27 03:53:08,038 - gateway        : Shard ID None has connected to Gateway (Session ID: 5635780936bacfc62efba7dd736695ec).
+ERROR      - 2025-03-27 03:53:14,266 - bot            : Ignoring exception in command name
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 57, in name
+    await ctx.reply("".join(who + who.id))
+                            ~~~~^~~~~~~~
+TypeError: unsupported operand type(s) for +: 'Member' and 'int'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: unsupported operand type(s) for +: 'Member' and 'int'
+ERROR      - 2025-03-27 03:53:19,768 - bot            : Ignoring exception in command name
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 57, in name
+    await ctx.reply("".join(who + who.id))
+                            ~~~~^~~~~~~~
+TypeError: unsupported operand type(s) for +: 'Member' and 'int'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: unsupported operand type(s) for +: 'Member' and 'int'
+WARNING    - 2025-03-27 03:56:08,425 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:56:08,427 - client         : logging in using static token
+INFO       - 2025-03-27 03:56:09,560 - gateway        : Shard ID None has connected to Gateway (Session ID: 0d4b95c1a187ba8d128abd4b468c9fd1).
+ERROR      - 2025-03-27 03:56:17,013 - bot            : Ignoring exception in command name
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 57, in name
+    await ctx.reply((who).join(who.id))
+                    ^^^^^^^^^^
+AttributeError: 'Member' object has no attribute 'join'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'Member' object has no attribute 'join'
+WARNING    - 2025-03-27 03:56:54,177 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:56:54,179 - client         : logging in using static token
+INFO       - 2025-03-27 03:56:55,401 - gateway        : Shard ID None has connected to Gateway (Session ID: 6c2723d961585e1c20674ec14d94ddbd).
+ERROR      - 2025-03-27 03:57:00,418 - bot            : Ignoring exception in command name
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 57, in name
+    await ctx.reply(who.join(who.id))
+                    ^^^^^^^^
+AttributeError: 'Member' object has no attribute 'join'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'Member' object has no attribute 'join'
+WARNING    - 2025-03-27 03:57:50,534 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:57:50,536 - client         : logging in using static token
+INFO       - 2025-03-27 03:57:51,768 - gateway        : Shard ID None has connected to Gateway (Session ID: 5c5773cab5da034f287aa1d09d859b75).
+ERROR      - 2025-03-27 03:57:59,034 - bot            : Ignoring exception in command name
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 57, in name
+    await ctx.reply(who + str(who.id))
+                    ~~~~^~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for +: 'Member' and 'str'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: unsupported operand type(s) for +: 'Member' and 'str'
+WARNING    - 2025-03-27 03:58:28,788 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:58:28,790 - client         : logging in using static token
+INFO       - 2025-03-27 03:58:29,898 - gateway        : Shard ID None has connected to Gateway (Session ID: 859280d9082b618343cf3f618ba48ccd).
+ERROR      - 2025-03-27 03:58:32,821 - bot            : Ignoring exception in command name
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 697, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: who is a required argument that is missing.
+WARNING    - 2025-03-27 03:58:55,996 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 03:58:55,998 - client         : logging in using static token
+INFO       - 2025-03-27 03:58:57,069 - gateway        : Shard ID None has connected to Gateway (Session ID: 1a5ddcbcf7e18003824ccd969d67eb77).
+WARNING    - 2025-03-27 04:01:01,891 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 04:01:01,893 - client         : logging in using static token
+INFO       - 2025-03-27 04:01:03,050 - gateway        : Shard ID None has connected to Gateway (Session ID: d1f6e4fc12c8bdb89a88844241eab638).
+ERROR      - 2025-03-27 04:01:09,464 - bot            : Ignoring exception in command join
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 697, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: who is a required argument that is missing.
+WARNING    - 2025-03-27 04:01:27,288 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 04:01:27,290 - client         : logging in using static token
+INFO       - 2025-03-27 04:01:28,455 - gateway        : Shard ID None has connected to Gateway (Session ID: 531d500180b4d761a8e9ab0614803b53).
+ERROR      - 2025-03-27 04:04:02,184 - bot            : Ignoring exception in command join
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 715, in transform
+    return await run_converters(ctx, converter, argument, param)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 1444, in run_converters
+    return await _actual_conversion(ctx, converter, argument, param)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 1326, in _actual_conversion
+    return await converter().convert(ctx, argument)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 281, in convert
+    raise MemberNotFound(argument)
+discord.ext.commands.errors.MemberNotFound: Member "lil" not found.
+ERROR      - 2025-03-27 04:04:10,945 - bot            : Ignoring exception in command join
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 715, in transform
+    return await run_converters(ctx, converter, argument, param)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 1444, in run_converters
+    return await _actual_conversion(ctx, converter, argument, param)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 1326, in _actual_conversion
+    return await converter().convert(ctx, argument)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 281, in convert
+    raise MemberNotFound(argument)
+discord.ext.commands.errors.MemberNotFound: Member "LIL" not found.
+ERROR      - 2025-03-27 04:05:10,832 - bot            : Ignoring exception in command join
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 715, in transform
+    return await run_converters(ctx, converter, argument, param)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 1444, in run_converters
+    return await _actual_conversion(ctx, converter, argument, param)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 1326, in _actual_conversion
+    return await converter().convert(ctx, argument)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 281, in convert
+    raise MemberNotFound(argument)
+discord.ext.commands.errors.MemberNotFound: Member "lil" not found.
+ERROR      - 2025-03-27 04:05:20,468 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "joun" is not found
+ERROR      - 2025-03-27 04:05:28,974 - bot            : Ignoring exception in command join
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 715, in transform
+    return await run_converters(ctx, converter, argument, param)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 1444, in run_converters
+    return await _actual_conversion(ctx, converter, argument, param)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 1326, in _actual_conversion
+    return await converter().convert(ctx, argument)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 281, in convert
+    raise MemberNotFound(argument)
+discord.ext.commands.errors.MemberNotFound: Member "lil" not found.
+ERROR      - 2025-03-27 04:06:07,310 - bot            : Ignoring exception in command join
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 715, in transform
+    return await run_converters(ctx, converter, argument, param)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 1444, in run_converters
+    return await _actual_conversion(ctx, converter, argument, param)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 1326, in _actual_conversion
+    return await converter().convert(ctx, argument)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 281, in convert
+    raise MemberNotFound(argument)
+discord.ext.commands.errors.MemberNotFound: Member "liljruu" not found.
+WARNING    - 2025-03-27 04:06:14,187 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 04:06:14,189 - client         : logging in using static token
+INFO       - 2025-03-27 04:06:15,470 - gateway        : Shard ID None has connected to Gateway (Session ID: 2e3bc4422ce8e2b4d454044dfdacaa1d).
+ERROR      - 2025-03-27 04:06:24,980 - bot            : Ignoring exception in command join
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 860, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 715, in transform
+    return await run_converters(ctx, converter, argument, param)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 1444, in run_converters
+    return await _actual_conversion(ctx, converter, argument, param)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 1326, in _actual_conversion
+    return await converter().convert(ctx, argument)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 281, in convert
+    raise MemberNotFound(argument)
+discord.ext.commands.errors.MemberNotFound: Member "lil" not found.
+ERROR      - 2025-03-27 04:09:34,201 - bot            : Ignoring exception in command join
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 61, in join
+    await ctx.reply(f"{who} join at {who.joined_at}")
+                                     ^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'joined_at'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'tuple' object has no attribute 'joined_at'
+ERROR      - 2025-03-27 04:16:17,553 - bot            : Ignoring exception in command join
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 61, in join
+    await ctx.reply(f"{who} join at {who.joined_at}")
+                                     ^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'joined_at'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'tuple' object has no attribute 'joined_at'
+WARNING    - 2025-03-27 04:16:25,776 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 04:16:25,778 - client         : logging in using static token
+INFO       - 2025-03-27 04:16:27,195 - gateway        : Shard ID None has connected to Gateway (Session ID: 9d64570a630e86d943632b8d0a175f87).
+WARNING    - 2025-03-27 19:36:01,814 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 19:36:01,816 - client         : logging in using static token
+INFO       - 2025-03-27 19:36:03,106 - gateway        : Shard ID None has connected to Gateway (Session ID: 2b923f8a08f743eda47c1ae80636f511).
+WARNING    - 2025-03-27 19:38:40,325 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 19:38:40,326 - client         : logging in using static token
+INFO       - 2025-03-27 19:38:41,512 - gateway        : Shard ID None has connected to Gateway (Session ID: aacc5d826a4c34fcfc65333845140b30).
+WARNING    - 2025-03-27 19:40:53,135 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 19:40:53,136 - client         : logging in using static token
+INFO       - 2025-03-27 19:40:54,295 - gateway        : Shard ID None has connected to Gateway (Session ID: 32727973236d56c5779e9b11aa6b2d48).
+ERROR      - 2025-03-27 19:41:12,324 - bot            : Ignoring exception in command dm
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 69, in dm
+    await ctx.reply(who="hello")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\context.py", line 750, in reply
+    return await self.send(content, reference=self.message, **kwargs)
+                 ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Context.send() got an unexpected keyword argument 'who'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: Context.send() got an unexpected keyword argument 'who'
+WARNING    - 2025-03-27 19:42:07,542 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 19:42:07,543 - client         : logging in using static token
+INFO       - 2025-03-27 19:42:08,799 - gateway        : Shard ID None has connected to Gateway (Session ID: ee8d82d27429b35941ca7b9e8b3ed56f).
+ERROR      - 2025-03-27 19:42:13,020 - bot            : Ignoring exception in command dm
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 697, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: who is a required argument that is missing.
+WARNING    - 2025-03-27 19:46:47,908 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 19:46:47,909 - client         : logging in using static token
+INFO       - 2025-03-27 19:46:49,217 - gateway        : Shard ID None has connected to Gateway (Session ID: b7f48c4a317a80fc66c50e9c1e3a247f).
+WARNING    - 2025-03-27 19:47:43,144 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 19:47:43,145 - client         : logging in using static token
+INFO       - 2025-03-27 19:47:44,696 - gateway        : Shard ID None has connected to Gateway (Session ID: ae220a7ddfb9a3608e47224dc51fd8f7).
+WARNING    - 2025-03-27 19:49:15,574 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 19:49:15,576 - client         : logging in using static token
+INFO       - 2025-03-27 19:49:16,758 - gateway        : Shard ID None has connected to Gateway (Session ID: c8c5704b86b893084bb67788c14e6bae).
+WARNING    - 2025-03-27 19:50:28,142 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 19:50:28,143 - client         : logging in using static token
+INFO       - 2025-03-27 19:50:29,295 - gateway        : Shard ID None has connected to Gateway (Session ID: 6cdb968b497e0627ec2eb20ccf3f3029).
+ERROR      - 2025-03-27 19:50:48,535 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "avatare" is not found
+ERROR      - 2025-03-27 19:50:53,460 - bot            : Ignoring exception in command avatar
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 697, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: who is a required argument that is missing.
+WARNING    - 2025-03-27 20:07:33,768 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 20:07:33,769 - client         : logging in using static token
+INFO       - 2025-03-27 20:07:35,187 - gateway        : Shard ID None has connected to Gateway (Session ID: 709daff3fe8b57b0578bed84136aa797).
+ERROR      - 2025-03-27 20:08:17,800 - bot            : Ignoring exception in command avatar
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 697, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: who is a required argument that is missing.
+ERROR      - 2025-03-27 20:08:23,545 - bot            : Ignoring exception in command avatar
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 715, in transform
+    return await run_converters(ctx, converter, argument, param)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 1444, in run_converters
+    return await _actual_conversion(ctx, converter, argument, param)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 1326, in _actual_conversion
+    return await converter().convert(ctx, argument)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\converter.py", line 281, in convert
+    raise MemberNotFound(argument)
+discord.ext.commands.errors.MemberNotFound: Member "1" not found.
+ERROR      - 2025-03-27 20:08:50,975 - bot            : Ignoring exception in command count
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 697, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: two is a required argument that is missing.
+WARNING    - 2025-03-27 20:09:19,624 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 20:09:19,625 - client         : logging in using static token
+INFO       - 2025-03-27 20:09:20,920 - gateway        : Shard ID None has connected to Gateway (Session ID: 30b4e53ab1847648faffe3725c5d286c).
+WARNING    - 2025-03-27 20:10:09,575 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 20:10:09,577 - client         : logging in using static token
+INFO       - 2025-03-27 20:10:10,988 - gateway        : Shard ID None has connected to Gateway (Session ID: 9d4bb7782b3be09a628441bfb96f1361).
+WARNING    - 2025-03-27 20:15:48,043 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 20:15:48,045 - client         : logging in using static token
+INFO       - 2025-03-27 20:15:49,409 - gateway        : Shard ID None has connected to Gateway (Session ID: 670062a49cfdb3fb083f87b985b955d7).
+WARNING    - 2025-03-27 20:25:50,704 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-27 20:26:42,654 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-27 20:26:50,734 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 20:26:50,736 - client         : logging in using static token
+INFO       - 2025-03-27 20:26:52,112 - gateway        : Shard ID None has connected to Gateway (Session ID: 0b1edb7a0ba9e9bfce42835de5dc4824).
+WARNING    - 2025-03-27 20:28:21,817 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 20:28:21,819 - client         : logging in using static token
+INFO       - 2025-03-27 20:28:23,077 - gateway        : Shard ID None has connected to Gateway (Session ID: 5acb27c7db7d00d389c241ae29dcb504).
+WARNING    - 2025-03-27 20:29:18,942 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 20:29:18,943 - client         : logging in using static token
+INFO       - 2025-03-27 20:29:20,167 - gateway        : Shard ID None has connected to Gateway (Session ID: d8023ae772fbcd43fddb6650bb9ef983).
+WARNING    - 2025-03-27 20:32:27,167 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 20:32:27,168 - client         : logging in using static token
+INFO       - 2025-03-27 20:32:28,385 - gateway        : Shard ID None has connected to Gateway (Session ID: 1c7cafb78f3e36774f4b6dc5105aec00).
+WARNING    - 2025-03-27 20:34:08,659 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 20:34:08,660 - client         : logging in using static token
+INFO       - 2025-03-27 20:34:09,758 - gateway        : Shard ID None has connected to Gateway (Session ID: 95cda58e7874ccd8447de56d1f5554bc).
+WARNING    - 2025-03-27 21:06:16,248 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:06:16,249 - client         : logging in using static token
+INFO       - 2025-03-27 21:06:17,523 - gateway        : Shard ID None has connected to Gateway (Session ID: 2c9df3e48f2d9eada108f9fc812726fd).
+ERROR      - 2025-03-27 21:06:19,541 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1027, in load_extension
+    raise errors.ExtensionNotFound(name)
+discord.ext.commands.errors.ExtensionNotFound: Extension 'hi' could not be loaded or found.
+WARNING    - 2025-03-27 21:08:35,255 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:08:35,256 - client         : logging in using static token
+INFO       - 2025-03-27 21:08:36,401 - gateway        : Shard ID None has connected to Gateway (Session ID: a9cad8a99b2b56ccf6bbd4a8a98a3b28).
+ERROR      - 2025-03-27 21:08:38,423 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[3:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1027, in load_extension
+    raise errors.ExtensionNotFound(name)
+discord.ext.commands.errors.ExtensionNotFound: Extension '' could not be loaded or found.
+WARNING    - 2025-03-27 21:08:45,010 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:08:45,012 - client         : logging in using static token
+INFO       - 2025-03-27 21:08:46,223 - gateway        : Shard ID None has connected to Gateway (Session ID: f2d881a53a933468ab93aa4296dfc906).
+ERROR      - 2025-03-27 21:08:48,231 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[4:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1027, in load_extension
+    raise errors.ExtensionNotFound(name)
+discord.ext.commands.errors.ExtensionNotFound: Extension '' could not be loaded or found.
+WARNING    - 2025-03-27 21:08:53,538 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:08:53,539 - client         : logging in using static token
+INFO       - 2025-03-27 21:08:54,890 - gateway        : Shard ID None has connected to Gateway (Session ID: 08a5dd827a83fba6ba4017608c165871).
+ERROR      - 2025-03-27 21:08:56,899 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[5:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1027, in load_extension
+    raise errors.ExtensionNotFound(name)
+discord.ext.commands.errors.ExtensionNotFound: Extension '' could not be loaded or found.
+WARNING    - 2025-03-27 21:10:06,224 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:10:06,225 - client         : logging in using static token
+INFO       - 2025-03-27 21:10:07,490 - gateway        : Shard ID None has connected to Gateway (Session ID: c2922ac526e0d75195ad525a137612f2).
+ERROR      - 2025-03-27 21:10:09,505 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1027, in load_extension
+    raise errors.ExtensionNotFound(name)
+discord.ext.commands.errors.ExtensionNotFound: Extension 'hi' could not be loaded or found.
+WARNING    - 2025-03-27 21:11:18,424 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:11:18,425 - client         : logging in using static token
+INFO       - 2025-03-27 21:11:19,623 - gateway        : Shard ID None has connected to Gateway (Session ID: 49a6646d575aa7a176d20dd943ec6b78).
+ERROR      - 2025-03-27 21:11:21,648 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "<frozen importlib.util>", line 93, in find_spec
+AttributeError: module 'cmd' has no attribute '__path__'. Did you mean: '__all__'?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmd.{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1025, in load_extension
+    spec = importlib.util.find_spec(name)
+  File "<frozen importlib.util>", line 95, in find_spec
+ModuleNotFoundError: __path__ attribute not found on 'cmd' while trying to find 'cmd.hi'
+WARNING    - 2025-03-27 21:12:06,992 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:12:06,993 - client         : logging in using static token
+INFO       - 2025-03-27 21:12:08,415 - gateway        : Shard ID None has connected to Gateway (Session ID: 600058390e4d82473d914704aa6132dc).
+ERROR      - 2025-03-27 21:12:10,432 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1027, in load_extension
+    raise errors.ExtensionNotFound(name)
+discord.ext.commands.errors.ExtensionNotFound: Extension 'hi' could not be loaded or found.
+WARNING    - 2025-03-27 21:12:17,873 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:12:17,875 - client         : logging in using static token
+INFO       - 2025-03-27 21:12:19,315 - gateway        : Shard ID None has connected to Gateway (Session ID: 9f6df2e1d2a83b2fa2ad1625ff8148f9).
+ERROR      - 2025-03-27 21:12:21,337 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "<frozen importlib.util>", line 93, in find_spec
+AttributeError: module 'cmd' has no attribute '__path__'. Did you mean: '__all__'?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmd.{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1025, in load_extension
+    spec = importlib.util.find_spec(name)
+  File "<frozen importlib.util>", line 95, in find_spec
+ModuleNotFoundError: __path__ attribute not found on 'cmd' while trying to find 'cmd.hi'
+WARNING    - 2025-03-27 21:15:08,309 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:15:08,310 - client         : logging in using static token
+INFO       - 2025-03-27 21:15:09,640 - gateway        : Shard ID None has connected to Gateway (Session ID: 676b0d90adc2240702cb31804297d90b).
+ERROR      - 2025-03-27 21:15:11,650 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "<frozen importlib.util>", line 93, in find_spec
+AttributeError: module 'cmd' has no attribute '__path__'. Did you mean: '__all__'?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 21, in on_ready
+    await bot.load_extension(f"cmd.{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1025, in load_extension
+    spec = importlib.util.find_spec(name)
+  File "<frozen importlib.util>", line 95, in find_spec
+ModuleNotFoundError: __path__ attribute not found on 'cmd' while trying to find 'cmd.hi'
+WARNING    - 2025-03-27 21:15:23,475 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:15:23,476 - client         : logging in using static token
+INFO       - 2025-03-27 21:15:24,642 - gateway        : Shard ID None has connected to Gateway (Session ID: 4d3c288b1ba8efbd0e527895c2d40ec5).
+ERROR      - 2025-03-27 21:15:26,665 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 21, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1027, in load_extension
+    raise errors.ExtensionNotFound(name)
+discord.ext.commands.errors.ExtensionNotFound: Extension 'hi' could not be loaded or found.
+WARNING    - 2025-03-27 21:18:01,694 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:18:01,695 - client         : logging in using static token
+INFO       - 2025-03-27 21:18:02,898 - gateway        : Shard ID None has connected to Gateway (Session ID: 3c2a55b7bfd2f275a2093cc2e9ea0d85).
+ERROR      - 2025-03-27 21:18:04,954 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1027, in load_extension
+    raise errors.ExtensionNotFound(name)
+discord.ext.commands.errors.ExtensionNotFound: Extension 'hi' could not be loaded or found.
+WARNING    - 2025-03-27 21:19:56,496 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:19:56,497 - client         : logging in using static token
+INFO       - 2025-03-27 21:19:58,834 - gateway        : Shard ID None has connected to Gateway (Session ID: 7ef731d93d75aa5e2866722f2c34fb3c).
+ERROR      - 2025-03-27 21:20:00,850 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 21, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1027, in load_extension
+    raise errors.ExtensionNotFound(name)
+discord.ext.commands.errors.ExtensionNotFound: Extension 'hi' could not be loaded or found.
+WARNING    - 2025-03-27 21:20:18,479 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:20:18,481 - client         : logging in using static token
+INFO       - 2025-03-27 21:20:20,025 - gateway        : Shard ID None has connected to Gateway (Session ID: d1fb337ae2c74bd480a993aedb2b9d51).
+ERROR      - 2025-03-27 21:20:22,039 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 21, in on_ready
+    await bot.load_extension(f"{cmd_file.name}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1025, in load_extension
+    spec = importlib.util.find_spec(name)
+  File "<frozen importlib.util>", line 91, in find_spec
+ModuleNotFoundError: No module named 'hi'
+WARNING    - 2025-03-27 21:21:57,336 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:21:57,337 - client         : logging in using static token
+INFO       - 2025-03-27 21:21:58,610 - gateway        : Shard ID None has connected to Gateway (Session ID: f4c26359f96e70ad8e6eb5ffcbf74502).
+ERROR      - 2025-03-27 21:22:00,631 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 21, in on_ready
+    if cmd_file.name != _init__.py:
+                        ^^^^^^^
+NameError: name '_init__' is not defined
+WARNING    - 2025-03-27 21:22:19,747 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:22:19,748 - client         : logging in using static token
+INFO       - 2025-03-27 21:22:20,983 - gateway        : Shard ID None has connected to Gateway (Session ID: 25a30ad518d67f2862cb2245c7a8914e).
+ERROR      - 2025-03-27 21:22:23,001 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1027, in load_extension
+    raise errors.ExtensionNotFound(name)
+discord.ext.commands.errors.ExtensionNotFound: Extension 'hi' could not be loaded or found.
+WARNING    - 2025-03-27 21:23:26,827 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:23:26,828 - client         : logging in using static token
+INFO       - 2025-03-27 21:23:28,482 - gateway        : Shard ID None has connected to Gateway (Session ID: f1a915498f7e0765bd7b7588d0bbf4c8).
+WARNING    - 2025-03-27 21:25:14,468 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:25:14,469 - client         : logging in using static token
+INFO       - 2025-03-27 21:25:15,682 - gateway        : Shard ID None has connected to Gateway (Session ID: eb5f475dd7002239294b01b557d64cb8).
+ERROR      - 2025-03-27 21:25:17,692 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1027, in load_extension
+    raise errors.ExtensionNotFound(name)
+discord.ext.commands.errors.ExtensionNotFound: Extension 'hi' could not be loaded or found.
+WARNING    - 2025-03-27 21:26:27,294 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:26:27,295 - client         : logging in using static token
+INFO       - 2025-03-27 21:26:28,718 - gateway        : Shard ID None has connected to Gateway (Session ID: d9d183736b70f454827306e19cac48b0).
+ERROR      - 2025-03-27 21:26:30,724 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1027, in load_extension
+    raise errors.ExtensionNotFound(name)
+discord.ext.commands.errors.ExtensionNotFound: Extension 'hi' could not be loaded or found.
+WARNING    - 2025-03-27 21:27:49,184 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:27:49,185 - client         : logging in using static token
+INFO       - 2025-03-27 21:27:50,356 - gateway        : Shard ID None has connected to Gateway (Session ID: 9c2d5845f713fa15906b9f94571c4688).
+ERROR      - 2025-03-27 21:27:52,374 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1027, in load_extension
+    raise errors.ExtensionNotFound(name)
+discord.ext.commands.errors.ExtensionNotFound: Extension 'hi' could not be loaded or found.
+ERROR      - 2025-03-27 21:28:20,264 - client         : Attempting a reconnect in 0.32s
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\connector.py", line 1365, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Program Files\Python313\Lib\asyncio\base_events.py", line 939, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Program Files\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\connector.py", line 1371, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [getaddrinfo failed]
+ERROR      - 2025-03-27 21:28:20,704 - client         : Attempting a reconnect in 2.63s
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\connector.py", line 1365, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Program Files\Python313\Lib\asyncio\base_events.py", line 939, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Program Files\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\connector.py", line 1371, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [getaddrinfo failed]
+ERROR      - 2025-03-27 21:28:23,347 - client         : Attempting a reconnect in 4.16s
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\connector.py", line 1365, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Program Files\Python313\Lib\asyncio\base_events.py", line 939, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Program Files\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\aiohttp\connector.py", line 1371, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [getaddrinfo failed]
+INFO       - 2025-03-27 21:28:27,975 - gateway        : Shard ID None has successfully RESUMED session 9c2d5845f713fa15906b9f94571c4688.
+WARNING    - 2025-03-27 21:29:36,610 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:29:36,612 - client         : logging in using static token
+INFO       - 2025-03-27 21:29:37,952 - gateway        : Shard ID None has connected to Gateway (Session ID: 46655c0e7972205e23b30d07982b0f68).
+ERROR      - 2025-03-27 21:29:39,961 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1027, in load_extension
+    raise errors.ExtensionNotFound(name)
+discord.ext.commands.errors.ExtensionNotFound: Extension 'hi' could not be loaded or found.
+WARNING    - 2025-03-27 21:30:07,998 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:30:07,999 - client         : logging in using static token
+INFO       - 2025-03-27 21:30:09,266 - gateway        : Shard ID None has connected to Gateway (Session ID: 3af8f6e23d58ed5906cea651bae260eb).
+ERROR      - 2025-03-27 21:30:11,272 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1027, in load_extension
+    raise errors.ExtensionNotFound(name)
+discord.ext.commands.errors.ExtensionNotFound: Extension 'hi' could not be loaded or found.
+WARNING    - 2025-03-27 21:30:54,848 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:30:54,850 - client         : logging in using static token
+INFO       - 2025-03-27 21:30:56,478 - gateway        : Shard ID None has connected to Gateway (Session ID: b1de10b1f0f61b8f328c376ee764d038).
+ERROR      - 2025-03-27 21:30:58,501 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1027, in load_extension
+    raise errors.ExtensionNotFound(name)
+discord.ext.commands.errors.ExtensionNotFound: Extension 'hi' could not be loaded or found.
+WARNING    - 2025-03-27 21:32:47,954 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 21:32:47,955 - client         : logging in using static token
+INFO       - 2025-03-27 21:32:49,230 - gateway        : Shard ID None has connected to Gateway (Session ID: b6f58bdd149ad1014a5db73155a9b349).
+ERROR      - 2025-03-27 21:32:51,235 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1027, in load_extension
+    raise errors.ExtensionNotFound(name)
+discord.ext.commands.errors.ExtensionNotFound: Extension 'hi' could not be loaded or found.
+WARNING    - 2025-03-27 22:17:51,132 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 22:17:51,134 - client         : logging in using static token
+INFO       - 2025-03-27 22:17:52,384 - gateway        : Shard ID None has connected to Gateway (Session ID: 1c3293565ac185e0aaf887906ffb2be6).
+ERROR      - 2025-03-27 22:17:54,409 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1027, in load_extension
+    raise errors.ExtensionNotFound(name)
+discord.ext.commands.errors.ExtensionNotFound: Extension 'hi' could not be loaded or found.
+WARNING    - 2025-03-27 22:19:01,443 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 22:19:01,444 - client         : logging in using static token
+INFO       - 2025-03-27 22:19:02,538 - gateway        : Shard ID None has connected to Gateway (Session ID: 6e25d307dca26ed8e8dd95507b90f779).
+ERROR      - 2025-03-27 22:19:04,553 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 957, in _load_from_module_spec
+    setup = getattr(lib, 'setup')
+AttributeError: module 'cmd' has no attribute 'setup'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 960, in _load_from_module_spec
+    raise errors.NoEntryPointError(key)
+discord.ext.commands.errors.NoEntryPointError: Extension 'cmd' has no 'setup' function.
+WARNING    - 2025-03-27 22:21:36,018 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 22:21:36,020 - client         : logging in using static token
+INFO       - 2025-03-27 22:21:37,285 - gateway        : Shard ID None has connected to Gateway (Session ID: 1b41b0302285e2522d8c570c2915883c).
+ERROR      - 2025-03-27 22:21:39,299 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 957, in _load_from_module_spec
+    setup = getattr(lib, 'setup')
+AttributeError: module 'cmd' has no attribute 'setup'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 960, in _load_from_module_spec
+    raise errors.NoEntryPointError(key)
+discord.ext.commands.errors.NoEntryPointError: Extension 'cmd' has no 'setup' function.
+WARNING    - 2025-03-27 22:24:46,538 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 22:24:46,539 - client         : logging in using static token
+INFO       - 2025-03-27 22:24:47,872 - gateway        : Shard ID None has connected to Gateway (Session ID: 2372a55bc72feab00cb78223918055f6).
+ERROR      - 2025-03-27 22:24:49,886 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 957, in _load_from_module_spec
+    setup = getattr(lib, 'setup')
+AttributeError: module 'cmd' has no attribute 'setup'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\tempCodeRunnerFile.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 960, in _load_from_module_spec
+    raise errors.NoEntryPointError(key)
+discord.ext.commands.errors.NoEntryPointError: Extension 'cmd' has no 'setup' function.
+WARNING    - 2025-03-27 22:29:28,876 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 22:29:28,877 - client         : logging in using static token
+INFO       - 2025-03-27 22:29:30,024 - gateway        : Shard ID None has connected to Gateway (Session ID: 1c83dab466b089dd168db3b17334a6a9).
+ERROR      - 2025-03-27 22:29:32,037 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 957, in _load_from_module_spec
+    setup = getattr(lib, 'setup')
+AttributeError: module 'cmd' has no attribute 'setup'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 960, in _load_from_module_spec
+    raise errors.NoEntryPointError(key)
+discord.ext.commands.errors.NoEntryPointError: Extension 'cmd' has no 'setup' function.
+WARNING    - 2025-03-27 22:31:02,229 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 22:31:02,232 - client         : logging in using static token
+INFO       - 2025-03-27 22:31:04,371 - gateway        : Shard ID None has connected to Gateway (Session ID: d94d6ff8460286f7fb73ef6fcad4348a).
+ERROR      - 2025-03-27 22:31:06,663 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 957, in _load_from_module_spec
+    setup = getattr(lib, 'setup')
+AttributeError: module 'cmd' has no attribute 'setup'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 960, in _load_from_module_spec
+    raise errors.NoEntryPointError(key)
+discord.ext.commands.errors.NoEntryPointError: Extension 'cmd' has no 'setup' function.
+WARNING    - 2025-03-27 22:32:22,036 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-27 22:32:22,038 - client         : logging in using static token
+INFO       - 2025-03-27 22:32:23,268 - gateway        : Shard ID None has connected to Gateway (Session ID: 5208d71df3329df4566de5abb346227d).
+WARNING    - 2025-03-28 00:47:22,441 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 00:47:22,443 - client         : logging in using static token
+INFO       - 2025-03-28 00:47:23,648 - gateway        : Shard ID None has connected to Gateway (Session ID: e79cb6f86b51b0eab313ff4ecc851c41).
+ERROR      - 2025-03-28 00:47:25,675 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 957, in _load_from_module_spec
+    setup = getattr(lib, 'setup')
+AttributeError: module 'cmd' has no attribute 'setup'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 960, in _load_from_module_spec
+    raise errors.NoEntryPointError(key)
+discord.ext.commands.errors.NoEntryPointError: Extension 'cmd' has no 'setup' function.
+WARNING    - 2025-03-28 00:52:42,608 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 00:52:42,610 - client         : logging in using static token
+INFO       - 2025-03-28 00:52:43,980 - gateway        : Shard ID None has connected to Gateway (Session ID: 80cf4d042263be54e012ceb662045aa1).
+ERROR      - 2025-03-28 00:52:45,999 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 957, in _load_from_module_spec
+    setup = getattr(lib, 'setup')
+AttributeError: module 'cmd' has no attribute 'setup'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 960, in _load_from_module_spec
+    raise errors.NoEntryPointError(key)
+discord.ext.commands.errors.NoEntryPointError: Extension 'cmd' has no 'setup' function.
+WARNING    - 2025-03-28 00:54:45,410 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 00:54:45,411 - client         : logging in using static token
+INFO       - 2025-03-28 00:54:46,622 - gateway        : Shard ID None has connected to Gateway (Session ID: c5cc9134a2b2d597cf6da7f9e838dc46).
+WARNING    - 2025-03-28 01:06:41,891 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:06:41,892 - client         : logging in using static token
+INFO       - 2025-03-28 01:06:43,214 - gateway        : Shard ID None has connected to Gateway (Session ID: 61abc80349e0b7b45896d6e039c44f5f).
+WARNING    - 2025-03-28 01:07:07,184 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:07:07,185 - client         : logging in using static token
+INFO       - 2025-03-28 01:07:08,747 - gateway        : Shard ID None has connected to Gateway (Session ID: 1c3e8112d26ce0f84f4ab9f60899b0ab).
+WARNING    - 2025-03-28 01:08:24,757 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:08:24,758 - client         : logging in using static token
+INFO       - 2025-03-28 01:08:25,907 - gateway        : Shard ID None has connected to Gateway (Session ID: 8e8fbeafb0c4ce8be6ca145c42216999).
+WARNING    - 2025-03-28 01:09:12,792 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:09:12,793 - client         : logging in using static token
+INFO       - 2025-03-28 01:09:13,980 - gateway        : Shard ID None has connected to Gateway (Session ID: 5bf3c52dd280c6ba26d24acc7872b5f6).
+WARNING    - 2025-03-28 01:09:48,073 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:09:48,075 - client         : logging in using static token
+INFO       - 2025-03-28 01:09:49,291 - gateway        : Shard ID None has connected to Gateway (Session ID: 6a73fe8bfececd9bcd2f0c4e10517a5c).
+WARNING    - 2025-03-28 01:10:45,214 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:10:45,215 - client         : logging in using static token
+INFO       - 2025-03-28 01:10:46,514 - gateway        : Shard ID None has connected to Gateway (Session ID: f4b5a99fbd932774a9a5f4949d8ba1d1).
+ERROR      - 2025-03-28 01:10:48,534 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 5, in <module>
+    class Mycommands(commands.Cog):
+    ...<54 lines>...
+            await ctx.author.send((" ").join(message))
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 9, in Mycommands
+    @commands.command(aliases=['p'],)
+     ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1793, in decorator
+    return cls(func, name=name, **attrs)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 406, in __init__
+    self.callback = func
+    ^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 513, in callback
+    self.params: Dict[str, Parameter] = get_signature_parameters(function, globalns)
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 130, in get_signature_parameters
+    raise TypeError(f'Command signature requires at least {required_params - 1} parameter(s)')
+TypeError: Command signature requires at least 1 parameter(s)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{cmd_file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.cmd' raised an error: TypeError: Command signature requires at least 1 parameter(s)
+WARNING    - 2025-03-28 01:12:58,080 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:12:58,081 - client         : logging in using static token
+INFO       - 2025-03-28 01:12:59,291 - gateway        : Shard ID None has connected to Gateway (Session ID: 02310896f1432cec5a3ec570a409e335).
+WARNING    - 2025-03-28 01:18:22,392 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:18:22,394 - client         : logging in using static token
+INFO       - 2025-03-28 01:18:23,645 - gateway        : Shard ID None has connected to Gateway (Session ID: 0c5f17c472e7c0057b3283d4da198551).
+WARNING    - 2025-03-28 01:19:15,001 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:19:15,003 - client         : logging in using static token
+INFO       - 2025-03-28 01:19:16,141 - gateway        : Shard ID None has connected to Gateway (Session ID: 895073330417c290295ccfd752d42e64).
+WARNING    - 2025-03-28 01:21:01,959 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:21:01,960 - client         : logging in using static token
+INFO       - 2025-03-28 01:21:03,210 - gateway        : Shard ID None has connected to Gateway (Session ID: 67d954bf90c06622e7b14de8cc99c9fe).
+ERROR      - 2025-03-28 01:21:05,217 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 21, in on_ready
+    await bot.add_cog("cmds.cmd")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 786, in add_cog
+    raise TypeError('cogs must derive from Cog')
+TypeError: cogs must derive from Cog
+WARNING    - 2025-03-28 01:22:10,688 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:22:10,689 - client         : logging in using static token
+INFO       - 2025-03-28 01:22:11,936 - gateway        : Shard ID None has connected to Gateway (Session ID: c71b39c3e90bde24512697d1bd87266e).
+WARNING    - 2025-03-28 01:22:36,666 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:22:36,668 - client         : logging in using static token
+INFO       - 2025-03-28 01:22:37,830 - gateway        : Shard ID None has connected to Gateway (Session ID: 2c135c7e45c0af9a3185d5e376c551a3).
+ERROR      - 2025-03-28 01:22:39,869 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 21, in on_ready
+    await bot.load_extension(settings.CMDS_DIR)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1021, in load_extension
+    name = self._resolve_name(name, package)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 974, in _resolve_name
+    return importlib.util.resolve_name(name, package)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "<frozen importlib.util>", line 26, in resolve_name
+AttributeError: 'WindowsPath' object has no attribute 'startswith'
+WARNING    - 2025-03-28 01:23:02,316 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:23:02,318 - client         : logging in using static token
+INFO       - 2025-03-28 01:23:03,368 - gateway        : Shard ID None has connected to Gateway (Session ID: d0ac0231d0de375097a4cd50df2a90a4).
+INFO       - 2025-03-28 01:32:01,680 - gateway        : Shard ID None has successfully RESUMED session d0ac0231d0de375097a4cd50df2a90a4.
+WARNING    - 2025-03-28 01:33:18,159 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:33:18,160 - client         : logging in using static token
+INFO       - 2025-03-28 01:33:19,303 - gateway        : Shard ID None has connected to Gateway (Session ID: 3310f89ce3632fa15e1f9ea34d276ec3).
+ERROR      - 2025-03-28 01:33:21,328 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 5, in <module>
+    class Mycommands(commands.Cog):
+    ...<58 lines>...
+            await ctx.author.send((" ").join(message))
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 9, in Mycommands
+    @commands.cog.listener()
+     ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'discord.ext.commands.cog' has no attribute 'listener'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 20, in on_ready
+    await bot.load_extension("cmds.cmd")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.cmd' raised an error: AttributeError: module 'discord.ext.commands.cog' has no attribute 'listener'
+WARNING    - 2025-03-28 01:34:25,343 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:34:25,344 - client         : logging in using static token
+INFO       - 2025-03-28 01:34:26,505 - gateway        : Shard ID None has connected to Gateway (Session ID: 38ab6064cbb7ee85f610e590268ed81b).
+WARNING    - 2025-03-28 01:38:36,420 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:38:36,421 - client         : logging in using static token
+INFO       - 2025-03-28 01:38:37,594 - gateway        : Shard ID None has connected to Gateway (Session ID: c7952fd7f3f5420f1dfd57e52d4db1c3).
+ERROR      - 2025-03-28 01:38:43,556 - client         : Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 11, in on_message
+    if message.find("baby") != -1:
+       ^^^^^^^^^^^^
+AttributeError: 'Message' object has no attribute 'find'
+ERROR      - 2025-03-28 01:38:47,132 - client         : Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 11, in on_message
+    if message.find("baby") != -1:
+       ^^^^^^^^^^^^
+AttributeError: 'Message' object has no attribute 'find'
+WARNING    - 2025-03-28 01:39:22,549 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:39:22,550 - client         : logging in using static token
+INFO       - 2025-03-28 01:39:24,034 - gateway        : Shard ID None has connected to Gateway (Session ID: 48ae6877c3e9036ddc2732b14deb0f94).
+ERROR      - 2025-03-28 01:39:32,460 - client         : Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 11, in on_message
+    if str[message].find("baby") != -1:
+       ~~~^^^^^^^^^
+TypeError: type 'str' is not subscriptable
+WARNING    - 2025-03-28 01:42:08,727 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:42:08,729 - client         : logging in using static token
+INFO       - 2025-03-28 01:42:09,880 - gateway        : Shard ID None has connected to Gateway (Session ID: 8d7ae6a7484225e7125a88d013b17eb7).
+WARNING    - 2025-03-28 01:46:49,554 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:46:49,555 - client         : logging in using static token
+INFO       - 2025-03-28 01:46:50,863 - gateway        : Shard ID None has connected to Gateway (Session ID: 171a12b0915bfe784f8374f7da842947).
+ERROR      - 2025-03-28 01:46:52,871 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 20, in on_ready
+    await bot.load_extension("cmds.*.py")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1025, in load_extension
+    spec = importlib.util.find_spec(name)
+  File "<frozen importlib.util>", line 91, in find_spec
+ModuleNotFoundError: No module named 'cmds.*'
+WARNING    - 2025-03-28 01:49:28,644 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:49:28,646 - client         : logging in using static token
+INFO       - 2025-03-28 01:49:29,774 - gateway        : Shard ID None has connected to Gateway (Session ID: effdce2b41d82f947e083b4cb4585c4a).
+WARNING    - 2025-03-28 01:57:41,430 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 01:57:41,431 - client         : logging in using static token
+INFO       - 2025-03-28 01:57:42,815 - gateway        : Shard ID None has connected to Gateway (Session ID: 8ce56a2fe9eef7f7a9f525f7f230bed8).
+WARNING    - 2025-03-28 02:00:46,821 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 02:00:46,822 - client         : logging in using static token
+INFO       - 2025-03-28 02:00:48,009 - gateway        : Shard ID None has connected to Gateway (Session ID: edeba0b238b12c2916b3238ac6baffab).
+ERROR      - 2025-03-28 02:00:50,039 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 5, in <module>
+    @commands.event(hidden=True)
+     ^^^^^^^^^^^^^^
+AttributeError: module 'discord.ext.commands' has no attribute 'event'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 21, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.cmd' raised an error: AttributeError: module 'discord.ext.commands' has no attribute 'event'
+WARNING    - 2025-03-28 02:02:23,075 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 02:02:23,076 - client         : logging in using static token
+INFO       - 2025-03-28 02:02:24,138 - gateway        : Shard ID None has connected to Gateway (Session ID: 8b5abb70f91e2eb0ca688952f32bb8b1).
+WARNING    - 2025-03-28 02:04:12,076 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 02:04:12,077 - client         : logging in using static token
+INFO       - 2025-03-28 02:04:13,332 - gateway        : Shard ID None has connected to Gateway (Session ID: a608fc86ff9767882296397846574a8a).
+WARNING    - 2025-03-28 02:04:55,467 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 02:04:55,468 - client         : logging in using static token
+INFO       - 2025-03-28 02:04:56,797 - gateway        : Shard ID None has connected to Gateway (Session ID: a98689732a19cb466dbc8314b47a0367).
+WARNING    - 2025-03-28 02:05:45,596 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 02:05:45,598 - client         : logging in using static token
+INFO       - 2025-03-28 02:05:46,951 - gateway        : Shard ID None has connected to Gateway (Session ID: 7214b93580b078aad90fa123644d4dfd).
+WARNING    - 2025-03-28 02:06:04,338 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 02:06:04,339 - client         : logging in using static token
+INFO       - 2025-03-28 02:06:05,424 - gateway        : Shard ID None has connected to Gateway (Session ID: 0419b80a39c8d5c90c0f31cc4e7e5bfa).
+WARNING    - 2025-03-28 02:06:56,010 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 02:06:56,011 - client         : logging in using static token
+INFO       - 2025-03-28 02:06:57,041 - gateway        : Shard ID None has connected to Gateway (Session ID: d22fe2556eba32afdb62622baccdbbae).
+WARNING    - 2025-03-28 02:10:21,348 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 02:10:21,350 - client         : logging in using static token
+INFO       - 2025-03-28 02:10:22,513 - gateway        : Shard ID None has connected to Gateway (Session ID: 4919233be2d555e658a753f1743226be).
+WARNING    - 2025-03-28 02:13:22,271 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 02:13:22,272 - client         : logging in using static token
+INFO       - 2025-03-28 02:13:23,706 - gateway        : Shard ID None has connected to Gateway (Session ID: c13f85effebf67c7a56fefe998d5697b).
+WARNING    - 2025-03-28 02:16:02,405 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 02:16:02,406 - client         : logging in using static token
+INFO       - 2025-03-28 02:16:03,894 - gateway        : Shard ID None has connected to Gateway (Session ID: 6ce16550da1624b9602e7a906c4d3c71).
+WARNING    - 2025-03-28 02:18:00,598 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 02:18:00,600 - client         : logging in using static token
+INFO       - 2025-03-28 02:18:01,650 - gateway        : Shard ID None has connected to Gateway (Session ID: 52dd4bf62802d4c52595253522cd976d).
+WARNING    - 2025-03-28 02:20:15,835 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 02:20:15,837 - client         : logging in using static token
+INFO       - 2025-03-28 02:20:17,774 - gateway        : Shard ID None has connected to Gateway (Session ID: fc6c8939cf5455264a85e8f9909f5648).
+WARNING    - 2025-03-28 02:22:13,264 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 02:22:13,265 - client         : logging in using static token
+INFO       - 2025-03-28 02:22:14,488 - gateway        : Shard ID None has connected to Gateway (Session ID: 490cb033f0774552cfb6ae396d585ea9).
+WARNING    - 2025-03-28 03:08:07,318 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 03:08:07,320 - client         : logging in using static token
+INFO       - 2025-03-28 03:08:08,705 - gateway        : Shard ID None has connected to Gateway (Session ID: 58f9ae6208ea9b34427e0e6b93b2704f).
+WARNING    - 2025-03-28 04:36:05,275 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 04:36:05,277 - client         : logging in using static token
+INFO       - 2025-03-28 04:36:06,379 - gateway        : Shard ID None has connected to Gateway (Session ID: eca3dc4f1cfacdaf0882852fc4b2a4d1).
+ERROR      - 2025-03-28 05:20:54,857 - client         : Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1411, in on_message
+    await self.process_commands(message)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1408, in process_commands
+    await self.invoke(ctx)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 925, in prepare
+    if not await self.can_run(ctx):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1288, in can_run
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\utils.py", line 727, in async_all
+    elem = await elem
+           ^^^^^^^^^^
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 10, in is_owner
+    return ctx.author.id == ctx.guild.owner.id
+                            ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'id'
+ERROR      - 2025-03-28 05:38:51,835 - client         : Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 926, in prepare
+    raise CheckFailure(f'The check functions for command {self.qualified_name} failed.')
+discord.ext.commands.errors.CheckFailure: The check functions for command direct_message failed.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 217, in wrapped
+    ret = await coro(*args, **kwargs)
+                ~~~~^^^^^^^^^^^^^^^^^
+TypeError: mycommands.direct_message_error() takes 2 positional arguments but 3 were given
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1411, in on_message
+    await self.process_commands(message)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1408, in process_commands
+    await self.invoke(ctx)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1370, in invoke
+    await ctx.command.dispatch_error(ctx, exc)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 639, in dispatch_error
+    await injected(cog, ctx, error)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 223, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: mycommands.direct_message_error() takes 2 positional arguments but 3 were given
+ERROR      - 2025-03-28 05:39:57,610 - client         : Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 926, in prepare
+    raise CheckFailure(f'The check functions for command {self.qualified_name} failed.')
+discord.ext.commands.errors.CheckFailure: The check functions for command direct_message failed.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 217, in wrapped
+    ret = await coro(*args, **kwargs)
+                ~~~~^^^^^^^^^^^^^^^^^
+TypeError: mycommands.direct_message_error() takes 2 positional arguments but 3 were given
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1411, in on_message
+    await self.process_commands(message)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1408, in process_commands
+    await self.invoke(ctx)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1370, in invoke
+    await ctx.command.dispatch_error(ctx, exc)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 639, in dispatch_error
+    await injected(cog, ctx, error)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 223, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: mycommands.direct_message_error() takes 2 positional arguments but 3 were given
+WARNING    - 2025-03-28 05:40:14,687 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 05:40:14,689 - client         : logging in using static token
+INFO       - 2025-03-28 05:40:15,858 - gateway        : Shard ID None has connected to Gateway (Session ID: 763016b6bfad039ae6810bed2d4445a9).
+ERROR      - 2025-03-28 05:40:21,360 - client         : Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 926, in prepare
+    raise CheckFailure(f'The check functions for command {self.qualified_name} failed.')
+discord.ext.commands.errors.CheckFailure: The check functions for command direct_message failed.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 217, in wrapped
+    ret = await coro(*args, **kwargs)
+                ~~~~^^^^^^^^^^^^^^^^^
+TypeError: mycommands.direct_message_error() takes 2 positional arguments but 3 were given
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1411, in on_message
+    await self.process_commands(message)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1408, in process_commands
+    await self.invoke(ctx)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1370, in invoke
+    await ctx.command.dispatch_error(ctx, exc)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 639, in dispatch_error
+    await injected(cog, ctx, error)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 223, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: mycommands.direct_message_error() takes 2 positional arguments but 3 were given
+WARNING    - 2025-03-28 05:42:49,105 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 05:42:49,106 - client         : logging in using static token
+INFO       - 2025-03-28 05:42:50,285 - gateway        : Shard ID None has connected to Gateway (Session ID: 10e9fb5ad392c7c9cb8411d27f880d73).
+ERROR      - 2025-03-28 05:42:52,301 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 963, in _load_from_module_spec
+    await setup(self)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 78, in setup
+    await bot.add_cog(mycommands(bot))
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 799, in add_cog
+    cog = await cog._inject(self, override=override, guild=guild, guilds=guilds)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\cog.py", line 725, in _inject
+    raise e
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\cog.py", line 716, in _inject
+    bot.add_command(command)
+    ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 253, in add_command
+    super().add_command(command)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1362, in add_command
+    raise CommandRegistrationError(alias, alias_conflict=True)
+discord.ext.commands.errors.CommandRegistrationError: The alias dm is already an existing command or alias.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 21, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 968, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.cmd' raised an error: CommandRegistrationError: The alias dm is already an existing command or alias.
+WARNING    - 2025-03-28 05:44:03,580 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 05:44:03,582 - client         : logging in using static token
+INFO       - 2025-03-28 05:44:04,751 - gateway        : Shard ID None has connected to Gateway (Session ID: e2ce145132cca0f2d0f9b1015f8aa0ad).
+WARNING    - 2025-03-28 05:52:44,609 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 05:52:44,611 - client         : logging in using static token
+INFO       - 2025-03-28 05:52:45,884 - gateway        : Shard ID None has connected to Gateway (Session ID: c082884e65e04671ff6ef5e06c6a05b5).
+WARNING    - 2025-03-28 06:18:20,800 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 06:18:20,804 - client         : logging in using static token
+INFO       - 2025-03-28 06:18:22,029 - gateway        : Shard ID None has connected to Gateway (Session ID: 4c936585f05f341dcf16a922cac8036a).
+WARNING    - 2025-03-28 06:22:57,165 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 06:22:57,166 - client         : logging in using static token
+INFO       - 2025-03-28 06:22:58,549 - gateway        : Shard ID None has connected to Gateway (Session ID: 664d5854dd0cd4e919800fea25e0d7de).
+ERROR      - 2025-03-28 06:23:00,866 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 5, in <module>
+    class mycommands(commands.Cog):
+    ...<65 lines>...
+                await ctx.send(f"u need role `{ctx.guild.get_role(1290411720791294093).name}`")
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 26, in mycommands
+    @commands.hybrid_command()
+     ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\hybrid.py", line 919, in decorator
+    return HybridCommand(func, name=name, with_app_command=with_app_command, **attrs)  # type: ignore
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\hybrid.py", line 521, in __init__
+    HybridAppCommand(self) if self.with_app_command else None
+    ~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\hybrid.py", line 318, in __init__
+    super().__init__(
+    ~~~~~~~~~~~~~~~~^
+        name=name or wrapped._locale_name or wrapped.name,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        nsfw=nsfw,
+        ^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\app_commands\commands.py", line 687, in __init__
+    self._params: Dict[str, CommandParameter] = _extract_parameters_from_callback(callback, callback.__globals__)
+                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\app_commands\commands.py", line 383, in _extract_parameters_from_callback
+    param = annotation_to_parameter(resolved, parameter)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\app_commands\transformers.py", line 870, in annotation_to_parameter
+    raise TypeError(f'unsupported parameter kind in callback: {parameter.kind!s}')
+TypeError: unsupported parameter kind in callback: VAR_POSITIONAL
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 23, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.cmd' raised an error: TypeError: unsupported parameter kind in callback: VAR_POSITIONAL
+WARNING    - 2025-03-28 06:23:26,258 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 06:23:26,259 - client         : logging in using static token
+INFO       - 2025-03-28 06:23:27,461 - gateway        : Shard ID None has connected to Gateway (Session ID: 89e71adbd93e10b22334a7165836ce3f).
+WARNING    - 2025-03-28 06:23:50,329 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 06:23:50,330 - client         : logging in using static token
+INFO       - 2025-03-28 06:23:51,436 - gateway        : Shard ID None has connected to Gateway (Session ID: 1d2bd6e681fba18adea3d8300cda511e).
+WARNING    - 2025-03-28 06:24:45,626 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 06:24:45,628 - client         : logging in using static token
+INFO       - 2025-03-28 06:24:46,680 - gateway        : Shard ID None has connected to Gateway (Session ID: 9f77cd097c19695bdfaba474e033f6fc).
+WARNING    - 2025-03-28 06:25:41,142 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 06:25:41,144 - client         : logging in using static token
+INFO       - 2025-03-28 06:25:42,250 - gateway        : Shard ID None has connected to Gateway (Session ID: a28c65b0a48da6d8f8db52b9c807cc30).
+WARNING    - 2025-03-28 06:26:40,398 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 06:26:40,399 - client         : logging in using static token
+INFO       - 2025-03-28 06:26:41,551 - gateway        : Shard ID None has connected to Gateway (Session ID: b011166bf4730b3a11a01087e5148130).
+WARNING    - 2025-03-28 06:32:52,308 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 06:32:52,309 - client         : logging in using static token
+INFO       - 2025-03-28 06:32:53,502 - gateway        : Shard ID None has connected to Gateway (Session ID: 3ddb4bf33e446d5a1da3db2c22ac2e25).
+ERROR      - 2025-03-28 06:32:55,520 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 5, in <module>
+    class mycommands(commands.Cog):
+    ...<65 lines>...
+                await ctx.send(f"u need role `{ctx.guild.get_role(1290411720791294093).name}`")
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 14, in mycommands
+    @commands.tree.command(aliases=['p'],)
+     ^^^^^^^^^^^^^
+AttributeError: module 'discord.ext.commands' has no attribute 'tree'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 21, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.cmd' raised an error: AttributeError: module 'discord.ext.commands' has no attribute 'tree'
+WARNING    - 2025-03-28 06:33:23,728 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 06:33:23,730 - client         : logging in using static token
+INFO       - 2025-03-28 06:33:24,776 - gateway        : Shard ID None has connected to Gateway (Session ID: 6df48e99800e62fe86ba703278b37a22).
+ERROR      - 2025-03-28 06:33:26,863 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 5, in <module>
+    class mycommands(commands.Cog):
+    ...<65 lines>...
+                await ctx.send(f"u need role `{ctx.guild.get_role(1290411720791294093).name}`")
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 14, in mycommands
+    @commands.tree.command(aliases=['p'],)
+     ^^^^^^^^^^^^^
+AttributeError: module 'discord.ext.commands' has no attribute 'tree'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 21, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.cmd' raised an error: AttributeError: module 'discord.ext.commands' has no attribute 'tree'
+WARNING    - 2025-03-28 06:35:33,514 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 06:35:33,516 - client         : logging in using static token
+INFO       - 2025-03-28 06:35:34,724 - gateway        : Shard ID None has connected to Gateway (Session ID: 4615cbb62aaf1f811b982e5cc74328be).
+ERROR      - 2025-03-28 06:35:36,807 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 5, in <module>
+    class mycommands(commands.Cog):
+    ...<65 lines>...
+                await ctx.send(f"u need role `{ctx.guild.get_role(1290411720791294093).name}`")
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 14, in mycommands
+    @commands.tree.command(aliases=['p'],)
+     ^^^^^^^^^^^^^
+AttributeError: module 'discord.ext.commands' has no attribute 'tree'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 21, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.cmd' raised an error: AttributeError: module 'discord.ext.commands' has no attribute 'tree'
+WARNING    - 2025-03-28 06:45:37,360 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 06:45:37,361 - client         : logging in using static token
+INFO       - 2025-03-28 06:45:38,484 - gateway        : Shard ID None has connected to Gateway (Session ID: b73a8af294f6ac4c6930e3753bef4d09).
+ERROR      - 2025-03-28 06:45:40,523 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 6, in <module>
+    class mycommands(commands.Cog):
+    ...<65 lines>...
+                await ctx.send(f"u need role `{ctx.guild.get_role(1290411720791294093).name}`")
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 15, in mycommands
+    @app_commands.command(aliases=['p'],)
+     ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+TypeError: command() got an unexpected keyword argument 'aliases'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 21, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.cmd' raised an error: TypeError: command() got an unexpected keyword argument 'aliases'
+WARNING    - 2025-03-28 06:48:03,915 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 06:48:03,916 - client         : logging in using static token
+INFO       - 2025-03-28 06:48:05,128 - gateway        : Shard ID None has connected to Gateway (Session ID: a2b9b32c6fd88f47261f0e98600e97d1).
+WARNING    - 2025-03-28 06:49:56,199 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 06:49:56,201 - client         : logging in using static token
+INFO       - 2025-03-28 06:49:57,315 - gateway        : Shard ID None has connected to Gateway (Session ID: fe44ef5b7f3d73db3e02bef43cc313f4).
+WARNING    - 2025-03-28 06:53:53,312 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 06:53:53,314 - client         : logging in using static token
+INFO       - 2025-03-28 06:53:54,550 - gateway        : Shard ID None has connected to Gateway (Session ID: c13b1aa704553648b142442b6e947588).
+WARNING    - 2025-03-28 06:55:01,565 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 06:55:01,566 - client         : logging in using static token
+INFO       - 2025-03-28 06:55:02,802 - gateway        : Shard ID None has connected to Gateway (Session ID: eb02eda02912599d471f6d6eff2c3188).
+WARNING    - 2025-03-28 06:56:33,262 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-28 06:57:02,869 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 06:57:02,870 - client         : logging in using static token
+INFO       - 2025-03-28 06:57:03,994 - gateway        : Shard ID None has connected to Gateway (Session ID: 9f3d0122f59a689753a5798c9f37d0b4).
+WARNING    - 2025-03-28 06:57:38,568 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 06:57:38,570 - client         : logging in using static token
+INFO       - 2025-03-28 06:57:39,785 - gateway        : Shard ID None has connected to Gateway (Session ID: ce22db3ce001ef27371b886f3881fe50).
+WARNING    - 2025-03-28 06:59:50,429 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 06:59:50,431 - client         : logging in using static token
+INFO       - 2025-03-28 06:59:51,543 - gateway        : Shard ID None has connected to Gateway (Session ID: 2982eb50fa305bfcbf4b7d4bbbb59749).
+WARNING    - 2025-03-28 07:02:09,400 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 07:02:09,402 - client         : logging in using static token
+INFO       - 2025-03-28 07:02:10,632 - gateway        : Shard ID None has connected to Gateway (Session ID: dc06df317e67061e43c078a83f84ece0).
+WARNING    - 2025-03-28 07:04:06,687 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-28 07:04:30,109 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-28 07:04:57,785 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-28 07:06:16,496 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-28 07:06:51,082 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 07:06:51,084 - client         : logging in using static token
+INFO       - 2025-03-28 07:06:52,203 - gateway        : Shard ID None has connected to Gateway (Session ID: b86b6bd48952f725d1c7018e6cf6fdf6).
+WARNING    - 2025-03-28 13:58:38,801 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 13:58:38,802 - client         : logging in using static token
+INFO       - 2025-03-28 13:58:40,056 - gateway        : Shard ID None has connected to Gateway (Session ID: b58b62c54cc94077dd2c56906869cf1f).
+WARNING    - 2025-03-28 14:02:37,070 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-28 14:02:59,165 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-28 14:03:22,527 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 14:03:22,528 - client         : logging in using static token
+INFO       - 2025-03-28 14:03:25,585 - gateway        : Shard ID None has connected to Gateway (Session ID: 2d60e7ccb2187e7e624ee8213e8744a5).
+ERROR      - 2025-03-28 14:03:36,634 - client         : Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 34, in on_command_error
+    await interaction.response.send_message("eurror globaly",ephemeral=True)
+          ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Context' object has no attribute 'response'
+WARNING    - 2025-03-28 14:05:23,662 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-28 14:05:37,267 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-28 14:06:21,026 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-28 14:06:37,367 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-28 14:08:00,158 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-28 14:08:48,880 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 14:08:48,881 - client         : logging in using static token
+INFO       - 2025-03-28 14:08:50,178 - gateway        : Shard ID None has connected to Gateway (Session ID: 37b0535f53a0fd47526e37f938a10286).
+ERROR      - 2025-03-28 14:08:57,833 - bot            : Ignoring exception in command count
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 697, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: one is a required argument that is missing.
+ERROR      - 2025-03-28 14:09:01,857 - bot            : Ignoring exception in command count
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 697, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: one is a required argument that is missing.
+WARNING    - 2025-03-28 14:10:17,818 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 14:10:17,819 - client         : logging in using static token
+INFO       - 2025-03-28 14:10:18,925 - gateway        : Shard ID None has connected to Gateway (Session ID: 0f918c2f01f6e39ac799130c354ca841).
+ERROR      - 2025-03-28 14:10:23,041 - bot            : Ignoring exception in command count
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 697, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: one is a required argument that is missing.
+WARNING    - 2025-03-28 14:13:10,428 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 14:13:10,429 - client         : logging in using static token
+INFO       - 2025-03-28 14:13:12,932 - gateway        : Shard ID None has connected to Gateway (Session ID: e93843727355f0e734a238e3c949451c).
+ERROR      - 2025-03-28 14:13:18,377 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "count" is not found
+ERROR      - 2025-03-28 14:14:14,105 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "count" is not found
+ERROR      - 2025-03-28 14:14:50,999 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "count" is not found
+ERROR      - 2025-03-28 14:14:54,943 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "ping" is not found
+ERROR      - 2025-03-28 14:15:14,340 - bot            : Ignoring exception in command reload
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\app_commands\commands.py", line 858, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\main.py", line 29, in reload
+    await interaction.response.send_message(f"✅Successfully reloaded {file}")
+          ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Context' object has no attribute 'response'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\hybrid.py", line 450, in _invoke_with_namespace
+    value = await self._do_call(ctx, ctx.kwargs)  # type: ignore
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\app_commands\commands.py", line 876, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'reload' raised an exception: AttributeError: 'Context' object has no attribute 'response'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\hybrid.py", line 450, in _invoke_with_namespace
+    value = await self._do_call(ctx, ctx.kwargs)  # type: ignore
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\app_commands\commands.py", line 876, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.ext.commands.errors.HybridCommandError: Hybrid command raised an error: Command 'reload' raised an exception: AttributeError: 'Context' object has no attribute 'response'
+WARNING    - 2025-03-28 14:16:19,988 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 14:16:19,989 - client         : logging in using static token
+INFO       - 2025-03-28 14:16:21,350 - gateway        : Shard ID None has connected to Gateway (Session ID: e7ecfc903c9f0b4d1bd1896e441571b2).
+WARNING    - 2025-03-28 14:20:22,118 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 14:20:22,119 - client         : logging in using static token
+INFO       - 2025-03-28 14:20:23,882 - gateway        : Shard ID None has connected to Gateway (Session ID: 067813047302537e837136c0aa038479).
+ERROR      - 2025-03-28 14:20:37,750 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "count" is not found
+ERROR      - 2025-03-28 14:20:54,032 - bot            : Ignoring exception in command say2
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jruan\Desktop\Jruu\ETERNAL\cmds\cmd.py", line 29, in say2
+    await ctx.send(" ".join(what))
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\context.py", line 1043, in send
+    return await super().send(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<16 lines>...
+    )  # type: ignore # The overloads don't support Optional but the implementation does
+    ^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\abc.py", line 1644, in send
+    data = await state.http.send_message(channel.id, params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\http.py", line 762, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\Desktop\Jruu\ETERNAL\venv\Lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+WARNING    - 2025-03-28 14:30:31,278 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 14:30:31,280 - client         : logging in using static token
+INFO       - 2025-03-28 14:30:32,532 - gateway        : Shard ID None has connected to Gateway (Session ID: 81b5c313d8872e71783d9fe230a36849).
+WARNING    - 2025-03-28 14:37:29,182 - client         : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2025-03-28 14:37:56,408 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-28 14:37:56,409 - client         : logging in using static token
+INFO       - 2025-03-28 14:37:58,067 - gateway        : Shard ID None has connected to Gateway (Session ID: 144847320dc133ef15838b7f28c70734).
