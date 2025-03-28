@@ -1,0 +1,40 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.log
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
+
+# Ignore .env file (contains sensitive info like Discord bot token)
+.env
+
+# Ignore log files (if you log to a file like infos.log)
+logs/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore Python distribution / packaging files
+*.egg-info/
+dist/
+build/
+
+# Ignore OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Ignore coverage reports
+.coverage
+coverage.xml
+*.cover
+*.hypothesis/
+
+# Ignore flake8 config if it exists
+tox.ini
