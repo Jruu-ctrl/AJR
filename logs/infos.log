@@ -2294,3 +2294,618 @@ INFO       - 2025-03-28 16:18:26,368 - gateway        : Shard ID None has connec
 WARNING    - 2025-03-28 16:51:01,080 - client         : PyNaCl is not installed, voice will NOT be supported
 INFO       - 2025-03-28 16:51:01,081 - client         : logging in using static token
 INFO       - 2025-03-28 16:51:02,431 - gateway        : Shard ID None has connected to Gateway (Session ID: 62dd1ae919e6aebf99de31aa88148167).
+WARNING    - 2025-03-29 01:25:53,623 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 01:25:53,626 - client         : logging in using static token
+INFO       - 2025-03-29 01:25:55,107 - gateway        : Shard ID None has connected to Gateway (Session ID: 108da77af463c512210ab323c66e06e7).
+WARNING    - 2025-03-29 14:44:44,430 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 14:44:44,432 - client         : logging in using static token
+INFO       - 2025-03-29 14:44:45,951 - gateway        : Shard ID None has connected to Gateway (Session ID: 2db9d4cad6e2a4bfe7d3cd5c382bb9c0).
+ERROR      - 2025-03-29 14:44:47,981 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\cmds\warns.py", line 6, in <module>
+    class warn_commands(commands,Cog):
+                                 ^^^
+NameError: name 'Cog' is not defined
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.warns' raised an error: NameError: name 'Cog' is not defined
+WARNING    - 2025-03-29 14:45:22,831 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 14:45:22,833 - client         : logging in using static token
+INFO       - 2025-03-29 14:45:23,951 - gateway        : Shard ID None has connected to Gateway (Session ID: e9e8d0ea1f77c02529cb300e50e6c27a).
+ERROR      - 2025-03-29 14:45:25,991 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\cmds\warns.py", line 6, in <module>
+    class warn_commands(commands.Cog):
+    ...<6 lines>...
+            await user.send(f"u have been warned from {interaction.user.name} \n rason:{reason}")
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\cmds\warns.py", line 10, in warn_commands
+    @app_commands.command(name="warn", description="Warn a user for rule violations. The warning is logged for moderation purposes.")
+     ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 2060, in decorator
+    return Command(
+        name=name if name is not MISSING else func.__name__,
+    ...<5 lines>...
+        extras=extras,
+    )
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 687, in __init__
+    self._params: Dict[str, CommandParameter] = _extract_parameters_from_callback(callback, callback.__globals__)
+                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 380, in _extract_parameters_from_callback
+    raise TypeError(f'parameter {parameter.name!r} is missing a type annotation in callback {func.__qualname__!r}')
+TypeError: parameter 'reason' is missing a type annotation in callback 'warn_commands.warn'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.warns' raised an error: TypeError: parameter 'reason' is missing a type annotation in callback 'warn_commands.warn'
+WARNING    - 2025-03-29 14:46:15,113 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 14:46:15,114 - client         : logging in using static token
+INFO       - 2025-03-29 14:46:17,560 - gateway        : Shard ID None has connected to Gateway (Session ID: b62db528eaec27c06ebec5b83b5989d2).
+WARNING    - 2025-03-29 14:54:47,848 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 14:54:47,850 - client         : logging in using static token
+INFO       - 2025-03-29 14:54:48,942 - gateway        : Shard ID None has connected to Gateway (Session ID: 54094a11bf9cd15b33b05bce342acc4f).
+WARNING    - 2025-03-29 14:58:04,993 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 14:58:04,995 - client         : logging in using static token
+INFO       - 2025-03-29 14:58:06,090 - gateway        : Shard ID None has connected to Gateway (Session ID: ae43465bfa129fcbd303b78df1e5c2af).
+WARNING    - 2025-03-29 15:00:22,833 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 15:00:22,835 - client         : logging in using static token
+INFO       - 2025-03-29 15:00:24,060 - gateway        : Shard ID None has connected to Gateway (Session ID: 76c38159f75bc21a281d85963c384c44).
+WARNING    - 2025-03-29 15:05:51,346 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 15:05:51,348 - client         : logging in using static token
+INFO       - 2025-03-29 15:05:52,592 - gateway        : Shard ID None has connected to Gateway (Session ID: 8f7de9d2e77c1e21f7cad19eeabe1c32).
+WARNING    - 2025-03-29 15:13:14,611 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 15:13:14,612 - client         : logging in using static token
+INFO       - 2025-03-29 15:13:15,898 - gateway        : Shard ID None has connected to Gateway (Session ID: 27d3c16a71af3a8bf93420bd7adb9968).
+WARNING    - 2025-03-29 15:14:19,509 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 15:14:19,510 - client         : logging in using static token
+INFO       - 2025-03-29 15:14:20,589 - gateway        : Shard ID None has connected to Gateway (Session ID: 5c67a2bce69d855cc1e6915fbd4439c3).
+WARNING    - 2025-03-29 15:14:37,631 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 15:14:37,632 - client         : logging in using static token
+INFO       - 2025-03-29 15:14:38,861 - gateway        : Shard ID None has connected to Gateway (Session ID: 16db466e85c11b91308dd909bfc07a1c).
+WARNING    - 2025-03-29 15:19:11,900 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 15:19:11,902 - client         : logging in using static token
+INFO       - 2025-03-29 15:19:13,144 - gateway        : Shard ID None has connected to Gateway (Session ID: e0a7a440af923199147f473e8134e58c).
+WARNING    - 2025-03-29 15:22:11,061 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 15:22:11,063 - client         : logging in using static token
+INFO       - 2025-03-29 15:22:12,317 - gateway        : Shard ID None has connected to Gateway (Session ID: 508cbed396c3994c293b204708cdb928).
+WARNING    - 2025-03-29 15:23:26,036 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 15:23:26,038 - client         : logging in using static token
+INFO       - 2025-03-29 15:23:27,200 - gateway        : Shard ID None has connected to Gateway (Session ID: ae140931968fe50b5b5d382717b60b89).
+WARNING    - 2025-03-29 15:26:11,503 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 15:26:11,504 - client         : logging in using static token
+WARNING    - 2025-03-29 15:26:19,683 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 15:26:19,685 - client         : logging in using static token
+INFO       - 2025-03-29 15:26:20,888 - gateway        : Shard ID None has connected to Gateway (Session ID: 82b04da70560b29eb8265c6f01eee5f9).
+WARNING    - 2025-03-29 15:27:15,531 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 15:27:15,533 - client         : logging in using static token
+INFO       - 2025-03-29 15:27:16,674 - gateway        : Shard ID None has connected to Gateway (Session ID: 7183ff9e84269a2fdf39ca6e0b5f2680).
+WARNING    - 2025-03-29 15:47:12,127 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 15:47:12,128 - client         : logging in using static token
+INFO       - 2025-03-29 15:47:13,370 - gateway        : Shard ID None has connected to Gateway (Session ID: fa4ad9d43a9e9e603910863c9cd577d9).
+ERROR      - 2025-03-29 15:47:15,400 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1022, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1160, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1090, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\cmds\menus.py", line 11
+    async def join(intertaction:discord.Interaction, member:discord.Member)
+                                                                           ^
+SyntaxError: expected ':'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.menus' raised an error: SyntaxError: expected ':' (menus.py, line 11)
+WARNING    - 2025-03-29 15:47:52,883 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 15:47:52,884 - client         : logging in using static token
+INFO       - 2025-03-29 15:47:54,277 - gateway        : Shard ID None has connected to Gateway (Session ID: 48b583377f007f6507d4a161cabc193f).
+ERROR      - 2025-03-29 15:47:56,302 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1022, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1160, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1090, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\cmds\menus.py", line 11
+    async def join(self,intertaction:discord.Interaction, member:discord.Member)
+                                                                                ^
+SyntaxError: expected ':'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.menus' raised an error: SyntaxError: expected ':' (menus.py, line 11)
+WARNING    - 2025-03-29 15:48:35,387 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 15:48:35,388 - client         : logging in using static token
+INFO       - 2025-03-29 15:48:36,620 - gateway        : Shard ID None has connected to Gateway (Session ID: 72ffaaecedee7ece8552f5e60f8cb380).
+ERROR      - 2025-03-29 15:48:38,643 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\cmds\menus.py", line 5, in <module>
+    class cont(commands.Cog):
+    ...<5 lines>...
+            await intertaction.response.send_message(f"`{member.name}` join in `{member.joined_at}`", ephemeral=True)
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\cmds\menus.py", line 9, in cont
+    @app_commands.context_menu(name="Join")
+     ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 2125, in decorator
+    return ContextMenu(
+        name=actual_name,
+    ...<3 lines>...
+        extras=extras,
+    )
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 1241, in __init__
+    (param, annotation, actual_type) = _get_context_menu_parameter(callback)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 427, in _get_context_menu_parameter
+    raise TypeError('context menus cannot be defined inside a class')
+TypeError: context menus cannot be defined inside a class
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.menus' raised an error: TypeError: context menus cannot be defined inside a class
+WARNING    - 2025-03-29 15:49:26,282 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 15:49:26,283 - client         : logging in using static token
+INFO       - 2025-03-29 15:49:27,422 - gateway        : Shard ID None has connected to Gateway (Session ID: 13f8d54c483890602f8e5035e24def27).
+ERROR      - 2025-03-29 15:49:29,460 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\cmds\menus.py", line 9, in <module>
+    @app_commands.context_menu(name="Join")
+     ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 2125, in decorator
+    return ContextMenu(
+        name=actual_name,
+    ...<3 lines>...
+        extras=extras,
+    )
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 1241, in __init__
+    (param, annotation, actual_type) = _get_context_menu_parameter(callback)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 436, in _get_context_menu_parameter
+    raise TypeError(msg)
+TypeError: context menu callback 'join' requires 2 parameters, the first one being the interaction and the other one explicitly annotated with either discord.Message, discord.User, discord.Member, or a typing.Union of discord.Member and discord.User
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.menus' raised an error: TypeError: context menu callback 'join' requires 2 parameters, the first one being the interaction and the other one explicitly annotated with either discord.Message, discord.User, discord.Member, or a typing.Union of discord.Member and discord.User
+WARNING    - 2025-03-29 15:51:00,525 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 15:51:00,526 - client         : logging in using static token
+INFO       - 2025-03-29 15:51:01,685 - gateway        : Shard ID None has connected to Gateway (Session ID: 4029946eba18308e6ed5e6f35fb1d3e0).
+ERROR      - 2025-03-29 15:51:03,709 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\cmds\menus.py", line 9, in <module>
+    @app_commands.context_menu(name="Join")
+     ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 2125, in decorator
+    return ContextMenu(
+        name=actual_name,
+    ...<3 lines>...
+        extras=extras,
+    )
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 1241, in __init__
+    (param, annotation, actual_type) = _get_context_menu_parameter(callback)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 436, in _get_context_menu_parameter
+    raise TypeError(msg)
+TypeError: context menu callback 'join' requires 2 parameters, the first one being the interaction and the other one explicitly annotated with either discord.Message, discord.User, discord.Member, or a typing.Union of discord.Member and discord.User
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.menus' raised an error: TypeError: context menu callback 'join' requires 2 parameters, the first one being the interaction and the other one explicitly annotated with either discord.Message, discord.User, discord.Member, or a typing.Union of discord.Member and discord.User
+WARNING    - 2025-03-29 15:52:52,963 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 15:52:52,965 - client         : logging in using static token
+INFO       - 2025-03-29 15:52:54,292 - gateway        : Shard ID None has connected to Gateway (Session ID: 4a741da398bae5bfb65f2b4af3c42bc5).
+ERROR      - 2025-03-29 15:52:56,341 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\cmds\menus.py", line 5, in <module>
+    class cont(commands.Cog):
+    ...<5 lines>...
+            await interaction.response.send_message(f"`{member.name}` joined on `{member.joined_at}`", ephemeral=True)
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\cmds\menus.py", line 9, in cont
+    @app_commands.context_menu(name="Join")
+     ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 2125, in decorator
+    return ContextMenu(
+        name=actual_name,
+    ...<3 lines>...
+        extras=extras,
+    )
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 1241, in __init__
+    (param, annotation, actual_type) = _get_context_menu_parameter(callback)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 427, in _get_context_menu_parameter
+    raise TypeError('context menus cannot be defined inside a class')
+TypeError: context menus cannot be defined inside a class
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.menus' raised an error: TypeError: context menus cannot be defined inside a class
+WARNING    - 2025-03-29 15:54:14,168 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 15:54:14,169 - client         : logging in using static token
+INFO       - 2025-03-29 15:54:15,346 - gateway        : Shard ID None has connected to Gateway (Session ID: 164495b2eaec3941b257ae5c239977df).
+ERROR      - 2025-03-29 15:54:17,380 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\cmds\menus.py", line 5, in <module>
+    class cont(commands.Cog):
+    ...<8 lines>...
+            self.bot.tree.add_command(self.join)
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\cmds\menus.py", line 9, in cont
+    @app_commands.context_menu(name="Join")
+     ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 2125, in decorator
+    return ContextMenu(
+        name=actual_name,
+    ...<3 lines>...
+        extras=extras,
+    )
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 1241, in __init__
+    (param, annotation, actual_type) = _get_context_menu_parameter(callback)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 427, in _get_context_menu_parameter
+    raise TypeError('context menus cannot be defined inside a class')
+TypeError: context menus cannot be defined inside a class
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.menus' raised an error: TypeError: context menus cannot be defined inside a class
+WARNING    - 2025-03-29 15:54:25,580 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 15:54:25,581 - client         : logging in using static token
+INFO       - 2025-03-29 15:54:26,950 - gateway        : Shard ID None has connected to Gateway (Session ID: ba4c63db58b85e77fbbaa9b4640b5811).
+ERROR      - 2025-03-29 15:54:28,969 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\cmds\menus.py", line 5, in <module>
+    class cont(commands.Cog):
+    ...<5 lines>...
+            await interaction.response.send_message(f"`{member.name}` joined on `{member.joined_at}`", ephemeral=True)
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\cmds\menus.py", line 9, in cont
+    @app_commands.context_menu(name="Join")
+     ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 2125, in decorator
+    return ContextMenu(
+        name=actual_name,
+    ...<3 lines>...
+        extras=extras,
+    )
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 1241, in __init__
+    (param, annotation, actual_type) = _get_context_menu_parameter(callback)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 427, in _get_context_menu_parameter
+    raise TypeError('context menus cannot be defined inside a class')
+TypeError: context menus cannot be defined inside a class
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.menus' raised an error: TypeError: context menus cannot be defined inside a class
+WARNING    - 2025-03-29 16:00:42,948 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:00:42,949 - client         : logging in using static token
+INFO       - 2025-03-29 16:00:44,178 - gateway        : Shard ID None has connected to Gateway (Session ID: 049bc2d1199c7140bf00ac105c167d5a).
+ERROR      - 2025-03-29 16:00:46,198 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 957, in _load_from_module_spec
+    setup = getattr(lib, 'setup')
+AttributeError: module 'cmds.menus' has no attribute 'setup'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 960, in _load_from_module_spec
+    raise errors.NoEntryPointError(key)
+discord.ext.commands.errors.NoEntryPointError: Extension 'cmds.menus' has no 'setup' function.
+WARNING    - 2025-03-29 16:01:50,649 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:01:50,650 - client         : logging in using static token
+INFO       - 2025-03-29 16:01:51,954 - gateway        : Shard ID None has connected to Gateway (Session ID: 3977b3bb34487060dfddd48e35bed249).
+ERROR      - 2025-03-29 16:01:53,999 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\cmds\menus.py", line 5, in <module>
+    @app_commands.context_menu(name="Join")
+     ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 2125, in decorator
+    return ContextMenu(
+        name=actual_name,
+    ...<3 lines>...
+        extras=extras,
+    )
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 1241, in __init__
+    (param, annotation, actual_type) = _get_context_menu_parameter(callback)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 436, in _get_context_menu_parameter
+    raise TypeError(msg)
+TypeError: context menu callback 'join' requires 2 parameters, the first one being the interaction and the other one explicitly annotated with either discord.Message, discord.User, discord.Member, or a typing.Union of discord.Member and discord.User
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.menus' raised an error: TypeError: context menu callback 'join' requires 2 parameters, the first one being the interaction and the other one explicitly annotated with either discord.Message, discord.User, discord.Member, or a typing.Union of discord.Member and discord.User
+WARNING    - 2025-03-29 16:04:41,219 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:04:41,220 - client         : logging in using static token
+INFO       - 2025-03-29 16:04:42,668 - gateway        : Shard ID None has connected to Gateway (Session ID: 5508d4eeab5c12c7f26153627ec2693e).
+WARNING    - 2025-03-29 16:09:34,015 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:09:34,017 - client         : logging in using static token
+INFO       - 2025-03-29 16:09:35,257 - gateway        : Shard ID None has connected to Gateway (Session ID: c3fb5f76b1325681020241b86bdbee61).
+WARNING    - 2025-03-29 16:11:49,244 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:11:49,245 - client         : logging in using static token
+INFO       - 2025-03-29 16:11:50,476 - gateway        : Shard ID None has connected to Gateway (Session ID: c36656c1679316d692000ab45e19c146).
+WARNING    - 2025-03-29 16:13:37,399 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:13:37,400 - client         : logging in using static token
+INFO       - 2025-03-29 16:13:38,510 - gateway        : Shard ID None has connected to Gateway (Session ID: 191aa56da45b8561ae2bc5d0c6e9ac81).
+WARNING    - 2025-03-29 16:14:59,275 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:14:59,276 - client         : logging in using static token
+INFO       - 2025-03-29 16:15:00,516 - gateway        : Shard ID None has connected to Gateway (Session ID: bec2db0496094fa57b42c4684962bba7).
+WARNING    - 2025-03-29 16:16:49,217 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:16:49,218 - client         : logging in using static token
+INFO       - 2025-03-29 16:16:50,653 - gateway        : Shard ID None has connected to Gateway (Session ID: 687dfe4b509295ea9b3120b08b4ed5d8).
+ERROR      - 2025-03-29 16:16:52,703 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\cmds\menus.py", line 8, in <module>
+    class cont(commands.Cog):
+    ...<4 lines>...
+            await interaction.response.send_message(f"`{member.name}` joined on `{member.joined_at}`", ephemeral=True)
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\cmds\menus.py", line 11, in cont
+    @app_commands.context_menu(name="Join")
+     ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 2125, in decorator
+    return ContextMenu(
+        name=actual_name,
+    ...<3 lines>...
+        extras=extras,
+    )
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 1241, in __init__
+    (param, annotation, actual_type) = _get_context_menu_parameter(callback)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 427, in _get_context_menu_parameter
+    raise TypeError('context menus cannot be defined inside a class')
+TypeError: context menus cannot be defined inside a class
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\bot-lilbaby\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.menus' raised an error: TypeError: context menus cannot be defined inside a class
+WARNING    - 2025-03-29 16:17:01,650 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:17:01,652 - client         : logging in using static token
+INFO       - 2025-03-29 16:17:02,811 - gateway        : Shard ID None has connected to Gateway (Session ID: 749eb17706e74f31f24fc1f384f0d2bc).
+WARNING    - 2025-03-29 16:21:31,156 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:21:31,157 - client         : logging in using static token
+INFO       - 2025-03-29 16:21:32,318 - gateway        : Shard ID None has connected to Gateway (Session ID: c75056c019a96e100c67a339ecda21e1).
+WARNING    - 2025-03-29 16:25:29,982 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:25:29,983 - client         : logging in using static token
+INFO       - 2025-03-29 16:25:31,323 - gateway        : Shard ID None has connected to Gateway (Session ID: 7ab17ffc3ed19892a64c1b07468ec099).
+WARNING    - 2025-03-29 16:28:15,535 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:28:15,537 - client         : logging in using static token
+INFO       - 2025-03-29 16:28:16,785 - gateway        : Shard ID None has connected to Gateway (Session ID: b9001b151a55bd73b93560ec29278a0e).
+WARNING    - 2025-03-29 16:29:03,631 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:29:03,632 - client         : logging in using static token
+INFO       - 2025-03-29 16:29:04,998 - gateway        : Shard ID None has connected to Gateway (Session ID: 0a79a6a2b93bfa02ceef44e737995ae7).
+WARNING    - 2025-03-29 16:30:43,242 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:30:43,243 - client         : logging in using static token
+INFO       - 2025-03-29 16:30:44,572 - gateway        : Shard ID None has connected to Gateway (Session ID: f413eb22f138b70f748916ab84f143a3).
+WARNING    - 2025-03-29 16:31:46,808 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:31:46,809 - client         : logging in using static token
+INFO       - 2025-03-29 16:31:48,024 - gateway        : Shard ID None has connected to Gateway (Session ID: c7aa2e7ecdb10459e3e0335e71c10447).
+WARNING    - 2025-03-29 16:33:22,409 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:33:22,411 - client         : logging in using static token
+INFO       - 2025-03-29 16:33:23,532 - gateway        : Shard ID None has connected to Gateway (Session ID: d38ebcc14b028ba3f88e59d8431cc13e).
+WARNING    - 2025-03-29 16:41:50,258 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:41:50,259 - client         : logging in using static token
+INFO       - 2025-03-29 16:41:51,453 - gateway        : Shard ID None has connected to Gateway (Session ID: b0c515ec7c826a63376c87a1a5d4e386).
+WARNING    - 2025-03-29 16:45:11,524 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:45:11,526 - client         : logging in using static token
+INFO       - 2025-03-29 16:45:12,669 - gateway        : Shard ID None has connected to Gateway (Session ID: 79fddf1678ef5227d074be9e97b2967c).
+WARNING    - 2025-03-29 16:48:35,539 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:48:35,541 - client         : logging in using static token
+INFO       - 2025-03-29 16:48:36,766 - gateway        : Shard ID None has connected to Gateway (Session ID: 6a732904cb82d22e3c3faa021762596e).
+WARNING    - 2025-03-29 16:55:30,852 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:55:30,854 - client         : logging in using static token
+INFO       - 2025-03-29 16:55:32,138 - gateway        : Shard ID None has connected to Gateway (Session ID: 76fc371535f4bd90de9aa63b24acc623).
+WARNING    - 2025-03-29 16:57:58,932 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:57:58,933 - client         : logging in using static token
+INFO       - 2025-03-29 16:58:00,165 - gateway        : Shard ID None has connected to Gateway (Session ID: 603b02d487dc8dc20af8965d8f3ce0a9).
+WARNING    - 2025-03-29 16:58:49,130 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:58:49,131 - client         : logging in using static token
+INFO       - 2025-03-29 16:58:50,201 - gateway        : Shard ID None has connected to Gateway (Session ID: 3cb98c62475af7489d1519988dfec447).
+WARNING    - 2025-03-29 16:59:07,706 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:59:07,707 - client         : logging in using static token
+INFO       - 2025-03-29 16:59:08,770 - gateway        : Shard ID None has connected to Gateway (Session ID: b0e21ab5f2cd241eb2636904a27acf9d).
+WARNING    - 2025-03-29 16:59:27,953 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 16:59:27,955 - client         : logging in using static token
+INFO       - 2025-03-29 16:59:29,315 - gateway        : Shard ID None has connected to Gateway (Session ID: 62f2a0f20a19ac36304cc913e5f871e2).
+WARNING    - 2025-03-29 17:02:16,231 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 17:02:16,233 - client         : logging in using static token
+INFO       - 2025-03-29 17:02:17,447 - gateway        : Shard ID None has connected to Gateway (Session ID: 25fc0a79ab85fad3f562eccd15a3e0df).
+WARNING    - 2025-03-29 17:08:52,454 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 17:08:52,455 - client         : logging in using static token
+INFO       - 2025-03-29 17:08:53,701 - gateway        : Shard ID None has connected to Gateway (Session ID: 7020ae4b14c2bc086e37d0fcd920a4e0).
+WARNING    - 2025-03-29 17:10:46,451 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 17:10:46,452 - client         : logging in using static token
+INFO       - 2025-03-29 17:10:47,660 - gateway        : Shard ID None has connected to Gateway (Session ID: 25d153657efd4e0e8b993e6fcc624e5a).
+WARNING    - 2025-03-29 17:12:02,761 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 17:12:02,763 - client         : logging in using static token
+INFO       - 2025-03-29 17:12:04,047 - gateway        : Shard ID None has connected to Gateway (Session ID: 43fff50c7708fae55cc3b8cec8c30e7e).
+WARNING    - 2025-03-29 17:20:10,292 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 17:20:10,293 - client         : logging in using static token
+INFO       - 2025-03-29 17:20:11,536 - gateway        : Shard ID None has connected to Gateway (Session ID: f4ac0c42ac9ed7fcb2eec1d19e743646).
+WARNING    - 2025-03-29 17:21:16,134 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 17:21:16,135 - client         : logging in using static token
+INFO       - 2025-03-29 17:21:17,238 - gateway        : Shard ID None has connected to Gateway (Session ID: a60df0dcccb6d82a3fea9affbbcb8347).
+ERROR      - 2025-03-29 17:21:19,257 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+          ~~~~^^^^^^^^^^^^^^^^^
+TypeError: run.<locals>.on_ready() missing 1 required positional argument: 'ctx'
+WARNING    - 2025-03-29 17:21:29,285 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 17:21:29,287 - client         : logging in using static token
+INFO       - 2025-03-29 17:21:30,859 - gateway        : Shard ID None has connected to Gateway (Session ID: b0c8bdb091ca6ec095c8f0651ab4d4ef).
+WARNING    - 2025-03-29 17:22:36,962 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 17:22:36,964 - client         : logging in using static token
+INFO       - 2025-03-29 17:22:38,492 - gateway        : Shard ID None has connected to Gateway (Session ID: 7b4df871f79f6d0769c966e5bc8cb80d).
+WARNING    - 2025-03-29 17:24:53,943 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 17:24:53,945 - client         : logging in using static token
+INFO       - 2025-03-29 17:24:55,184 - gateway        : Shard ID None has connected to Gateway (Session ID: 4d4909ab1e8cf8023e8d32896e7e65d2).
+WARNING    - 2025-03-29 17:27:42,897 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 17:27:42,899 - client         : logging in using static token
+INFO       - 2025-03-29 17:27:44,068 - gateway        : Shard ID None has connected to Gateway (Session ID: ef7be69c17479af68bb85eade0b1e043).
