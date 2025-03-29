@@ -6,7 +6,7 @@ import discord
 class warn_commands(commands.Cog):
     def __init__(self,bot):
         self.bot=bot
-    @commands.bot_has_permissions(kick_members=True)
+    @commands.has_permissions(kick_members=True)
     @app_commands.command(name="warn", description="Warn a user for rule violations. The warning is logged for moderation purposes.")
     @app_commands.describe(
         user="The user to warn",
