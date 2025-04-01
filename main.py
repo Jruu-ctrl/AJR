@@ -1,6 +1,5 @@
 import settings
 import discord
-import random
 from discord.ext import commands
 from discord import app_commands
 
@@ -22,8 +21,7 @@ def run():
         for file in settings.CMDS_DIR.glob("*.py"):
             await bot.load_extension(f"cmds.{file.name[:-3]}")
 
-        bot.tree.copy_global_to(guild=settings.GUILDS_ID)
-        await bot.tree.sync(guild=settings.GUILDS_ID)
+        await bot.tree.sync()
 
     @bot.tree.context_menu(name="Join")
     async def join(interaction:discord.Interaction, member:discord.Member):

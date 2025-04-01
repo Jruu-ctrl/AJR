@@ -15,6 +15,8 @@ CMDS_DIR=BASE_DIR / "cmds"
 
 GUILDS_ID=discord.Object(id=int(os.getenv("GUILD")))
 
+ELEVEN_CLIENT=os.getenv("ELEVEN_API_KEY")
+
 LOGGING_CONFIG= {
     "version": 1,
     "disable_existing_loggers": False,

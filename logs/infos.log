@@ -2909,3 +2909,595 @@ INFO       - 2025-03-29 17:24:55,184 - gateway        : Shard ID None has connec
 WARNING    - 2025-03-29 17:27:42,897 - client         : PyNaCl is not installed, voice will NOT be supported
 INFO       - 2025-03-29 17:27:42,899 - client         : logging in using static token
 INFO       - 2025-03-29 17:27:44,068 - gateway        : Shard ID None has connected to Gateway (Session ID: ef7be69c17479af68bb85eade0b1e043).
+WARNING    - 2025-03-29 23:05:22,140 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 23:05:22,150 - client         : logging in using static token
+WARNING    - 2025-03-29 23:05:55,440 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 23:05:55,442 - client         : logging in using static token
+WARNING    - 2025-03-29 23:11:21,972 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 23:11:21,973 - client         : logging in using static token
+WARNING    - 2025-03-29 23:11:41,546 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 23:11:41,547 - client         : logging in using static token
+WARNING    - 2025-03-29 23:15:01,480 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 23:15:01,482 - client         : logging in using static token
+WARNING    - 2025-03-29 23:15:42,818 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 23:15:42,820 - client         : logging in using static token
+WARNING    - 2025-03-29 23:18:32,781 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 23:18:32,782 - client         : logging in using static token
+INFO       - 2025-03-29 23:18:34,156 - gateway        : Shard ID None has connected to Gateway (Session ID: 8f95d82a42c0eb4fc5d730bb957ba18f).
+WARNING    - 2025-03-29 23:18:37,020 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-29 23:18:37,022 - client         : logging in using static token
+INFO       - 2025-03-29 23:18:38,169 - gateway        : Shard ID None has connected to Gateway (Session ID: 58e3b67f4473a2d2b5c0c5df03eef78a).
+WARNING    - 2025-03-30 00:03:27,922 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:03:27,924 - client         : logging in using static token
+INFO       - 2025-03-30 00:03:29,418 - gateway        : Shard ID None has connected to Gateway (Session ID: c5fd5352bbb07a9e48f711f5cad715fa).
+ERROR      - 2025-03-30 00:03:31,440 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1022, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1160, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1090, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\warns.py", line 27
+    async def ban(interaction:discord.Interaction,user:discord.Member,duration,reason:str ="no specify reason",reported_by:discord.Member):
+                                                                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: parameter without a default follows parameter with a default
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.warns' raised an error: SyntaxError: parameter without a default follows parameter with a default (warns.py, line 27)
+WARNING    - 2025-03-30 00:06:52,199 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:06:52,201 - client         : logging in using static token
+INFO       - 2025-03-30 00:06:53,384 - gateway        : Shard ID None has connected to Gateway (Session ID: f4fd0bfd8b41439a17b67143412db9f1).
+ERROR      - 2025-03-30 00:06:55,424 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1022, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1160, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1090, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\warns.py", line 31
+    reported_by:discord.Member
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: parameter without a default follows parameter with a default
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.warns' raised an error: SyntaxError: parameter without a default follows parameter with a default (warns.py, line 31)
+WARNING    - 2025-03-30 00:09:06,795 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:09:06,796 - client         : logging in using static token
+INFO       - 2025-03-30 00:09:08,017 - gateway        : Shard ID None has connected to Gateway (Session ID: 8e9099524d8e7499815a529eb5066d17).
+ERROR      - 2025-03-30 00:09:10,032 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\warns.py", line 6, in <module>
+    class warn_commands(commands.Cog):
+    ...<34 lines>...
+            await interaction.response.send_message(embed)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\warns.py", line 25, in warn_commands
+    @app_commands.command(name="ban forum",description="ban forum")
+     ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 2060, in decorator
+    return Command(
+        name=name if name is not MISSING else func.__name__,
+    ...<5 lines>...
+        extras=extras,
+    )
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 666, in __init__
+    self.name: str = validate_name(name)
+                     ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 201, in validate_name
+    raise ValueError(
+        f'{name!r} must be between 1-32 characters and contain only lower-case letters, numbers, hyphens, or underscores.'
+    )
+ValueError: 'ban forum' must be between 1-32 characters and contain only lower-case letters, numbers, hyphens, or underscores.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.warns' raised an error: ValueError: 'ban forum' must be between 1-32 characters and contain only lower-case letters, numbers, hyphens, or underscores.
+WARNING    - 2025-03-30 00:09:55,706 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:09:55,708 - client         : logging in using static token
+INFO       - 2025-03-30 00:09:57,094 - gateway        : Shard ID None has connected to Gateway (Session ID: a3fbe68767629aaf05cf3b91272a5e3e).
+WARNING    - 2025-03-30 00:11:21,241 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:11:21,242 - client         : logging in using static token
+INFO       - 2025-03-30 00:11:22,484 - gateway        : Shard ID None has connected to Gateway (Session ID: 85e0be3fe0ff55fda9d2a2cc29bfac99).
+WARNING    - 2025-03-30 00:16:06,157 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:16:06,159 - client         : logging in using static token
+INFO       - 2025-03-30 00:16:07,550 - gateway        : Shard ID None has connected to Gateway (Session ID: 5ab6d32950ba9c3079b59ada250a2373).
+WARNING    - 2025-03-30 00:17:43,700 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:17:43,702 - client         : logging in using static token
+INFO       - 2025-03-30 00:17:44,948 - gateway        : Shard ID None has connected to Gateway (Session ID: 36d5f7b1684610a998b79aa37873ab07).
+WARNING    - 2025-03-30 00:18:27,717 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:18:27,719 - client         : logging in using static token
+INFO       - 2025-03-30 00:18:29,175 - gateway        : Shard ID None has connected to Gateway (Session ID: f194f2c339bc3f3a57e7c40d705f7a0d).
+ERROR      - 2025-03-30 00:20:26,404 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "av" is not found
+ERROR      - 2025-03-30 00:20:39,083 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "avatar" is not found
+ERROR      - 2025-03-30 00:24:59,336 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "av" is not found
+WARNING    - 2025-03-30 00:25:33,010 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:25:33,011 - client         : logging in using static token
+INFO       - 2025-03-30 00:25:34,176 - gateway        : Shard ID None has connected to Gateway (Session ID: 8fdfda4a1a9bdbec1eba59acb9345e33).
+WARNING    - 2025-03-30 00:30:15,606 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:30:15,607 - client         : logging in using static token
+INFO       - 2025-03-30 00:30:16,868 - gateway        : Shard ID None has connected to Gateway (Session ID: 86078d0ff3c61ce56c3c490240fd0bc0).
+ERROR      - 2025-03-30 00:30:18,899 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 957, in _load_from_module_spec
+    setup = getattr(lib, 'setup')
+AttributeError: module 'cmds.warns' has no attribute 'setup'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 960, in _load_from_module_spec
+    raise errors.NoEntryPointError(key)
+discord.ext.commands.errors.NoEntryPointError: Extension 'cmds.warns' has no 'setup' function.
+WARNING    - 2025-03-30 00:30:43,329 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:30:43,330 - client         : logging in using static token
+INFO       - 2025-03-30 00:30:44,646 - gateway        : Shard ID None has connected to Gateway (Session ID: e4e0f88e5ea6b8685505c40fddcdcf65).
+WARNING    - 2025-03-30 00:31:20,249 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:31:20,250 - client         : logging in using static token
+INFO       - 2025-03-30 00:31:21,513 - gateway        : Shard ID None has connected to Gateway (Session ID: 17f6351ec568eada67dae6450ba4090f).
+WARNING    - 2025-03-30 00:32:00,385 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:32:00,387 - client         : logging in using static token
+INFO       - 2025-03-30 00:32:01,650 - gateway        : Shard ID None has connected to Gateway (Session ID: cb4dde3342f80916eae4c37f49deda7b).
+WARNING    - 2025-03-30 00:32:33,761 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:32:33,763 - client         : logging in using static token
+INFO       - 2025-03-30 00:32:34,912 - gateway        : Shard ID None has connected to Gateway (Session ID: db0fdd8aa7702f6136b2662afa947169).
+WARNING    - 2025-03-30 00:32:48,327 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:32:48,329 - client         : logging in using static token
+INFO       - 2025-03-30 00:32:49,416 - gateway        : Shard ID None has connected to Gateway (Session ID: 29678663a5a01bff143ae358274c3a8d).
+ERROR      - 2025-03-30 00:32:51,433 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 24, in on_ready
+    bot.tree.clear_commands()  # Clears global commands
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+TypeError: CommandTree.clear_commands() missing 1 required keyword-only argument: 'guild'
+WARNING    - 2025-03-30 00:33:14,123 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:33:14,124 - client         : logging in using static token
+INFO       - 2025-03-30 00:33:15,286 - gateway        : Shard ID None has connected to Gateway (Session ID: ad6957ad978499a5a3e05de3a3134845).
+WARNING    - 2025-03-30 00:34:37,640 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:34:37,641 - client         : logging in using static token
+INFO       - 2025-03-30 00:34:38,844 - gateway        : Shard ID None has connected to Gateway (Session ID: 8fc75f0fe715f69e74f1de5001a9b0bc).
+WARNING    - 2025-03-30 00:36:13,699 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:36:13,700 - client         : logging in using static token
+INFO       - 2025-03-30 00:36:14,850 - gateway        : Shard ID None has connected to Gateway (Session ID: 55a9dc626f3018327e5e3dfd47ae895f).
+WARNING    - 2025-03-30 00:47:49,327 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:47:49,328 - client         : logging in using static token
+INFO       - 2025-03-30 00:47:50,674 - gateway        : Shard ID None has connected to Gateway (Session ID: d96d84d46d6bafdcd2a8ceb50fef021a).
+WARNING    - 2025-03-30 00:48:16,814 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:48:16,815 - client         : logging in using static token
+INFO       - 2025-03-30 00:48:18,411 - gateway        : Shard ID None has connected to Gateway (Session ID: d6556b9d410d1d21eb070789798061ba).
+WARNING    - 2025-03-30 00:55:50,582 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:55:50,583 - client         : logging in using static token
+INFO       - 2025-03-30 00:55:51,973 - gateway        : Shard ID None has connected to Gateway (Session ID: 2815269495d0d86737ac6a87b60d0db2).
+WARNING    - 2025-03-30 00:58:22,424 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 00:58:22,427 - client         : logging in using static token
+INFO       - 2025-03-30 00:58:23,780 - gateway        : Shard ID None has connected to Gateway (Session ID: 0e1485103779e71d415f9663f94097e2).
+WARNING    - 2025-03-30 01:02:05,926 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 01:02:05,927 - client         : logging in using static token
+INFO       - 2025-03-30 01:02:07,145 - gateway        : Shard ID None has connected to Gateway (Session ID: 70d3aeabf41f634ec6ee8c454ad7ea4e).
+WARNING    - 2025-03-30 01:08:21,572 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 01:08:21,574 - client         : logging in using static token
+INFO       - 2025-03-30 01:08:22,839 - gateway        : Shard ID None has connected to Gateway (Session ID: d4d33718eefa9acc8659dfc66c7ee26f).
+WARNING    - 2025-03-30 01:12:59,353 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 01:12:59,354 - client         : logging in using static token
+INFO       - 2025-03-30 01:13:00,557 - gateway        : Shard ID None has connected to Gateway (Session ID: bc087b0e4e67e1e4a1a098fa83c1fa17).
+WARNING    - 2025-03-30 01:13:56,943 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 01:13:56,945 - client         : logging in using static token
+INFO       - 2025-03-30 01:13:58,149 - gateway        : Shard ID None has connected to Gateway (Session ID: bacbda9c2fc3a87e417172339c1c6906).
+WARNING    - 2025-03-30 01:34:32,937 - client         : PyNaCl is not installed, voice will NOT be supported
+INFO       - 2025-03-30 01:34:32,938 - client         : logging in using static token
+INFO       - 2025-03-30 01:34:34,217 - gateway        : Shard ID None has connected to Gateway (Session ID: ea96cdacd33f8838bb19c53bbd0a1a02).
+INFO       - 2025-03-30 04:00:47,007 - client         : logging in using static token
+INFO       - 2025-03-30 04:00:48,418 - gateway        : Shard ID None has connected to Gateway (Session ID: 34169fa98d34048a3a0da3eb05c7ea80).
+ERROR      - 2025-03-30 04:00:51,284 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\elev.py", line 12, in <module>
+    class elab(commands.Cog):
+    ...<40 lines>...
+            return temp_audio_file_path
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\elev.py", line 29, in elab
+    @app_commands.command()
+     ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 2060, in decorator
+    return Command(
+        name=name if name is not MISSING else func.__name__,
+    ...<5 lines>...
+        extras=extras,
+    )
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 687, in __init__
+    self._params: Dict[str, CommandParameter] = _extract_parameters_from_callback(callback, callback.__globals__)
+                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 383, in _extract_parameters_from_callback
+    param = annotation_to_parameter(resolved, parameter)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\transformers.py", line 833, in annotation_to_parameter
+    (inner, default, validate_default) = get_supported_annotation(annotation)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\transformers.py", line 792, in get_supported_annotation
+    raise TypeError(f'unsupported type annotation {annotation!r}')
+TypeError: unsupported type annotation <module 'discord.channel' from 'C:\\Users\\jruan\\AppData\\Roaming\\Python\\Python313\\site-packages\\discord\\channel.py'>
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.elev' raised an error: TypeError: unsupported type annotation <module 'discord.channel' from 'C:\\Users\\jruan\\AppData\\Roaming\\Python\\Python313\\site-packages\\discord\\channel.py'>
+INFO       - 2025-03-30 04:03:00,323 - client         : logging in using static token
+INFO       - 2025-03-30 04:03:01,594 - gateway        : Shard ID None has connected to Gateway (Session ID: 5f4d172d93d63ab3cc63c62ae5d3e90c).
+INFO       - 2025-03-30 04:06:06,030 - client         : logging in using static token
+INFO       - 2025-03-30 04:06:07,340 - gateway        : Shard ID None has connected to Gateway (Session ID: d0da74317590c6bc436ab315a6304c87).
+INFO       - 2025-03-30 04:08:39,499 - client         : logging in using static token
+INFO       - 2025-03-30 04:08:40,741 - gateway        : Shard ID None has connected to Gateway (Session ID: 532f187d83f6233732bb5befe0582b4b).
+INFO       - 2025-03-30 04:12:31,465 - client         : logging in using static token
+INFO       - 2025-03-30 04:12:32,668 - gateway        : Shard ID None has connected to Gateway (Session ID: 1c525a3a3a73ed398d92ee0827cff7e3).
+INFO       - 2025-03-30 04:13:15,377 - client         : logging in using static token
+INFO       - 2025-03-30 04:13:16,567 - gateway        : Shard ID None has connected to Gateway (Session ID: da1fcb1d5b977054b38d7f93da1f3563).
+INFO       - 2025-03-30 04:16:08,831 - client         : logging in using static token
+INFO       - 2025-03-30 04:16:09,969 - gateway        : Shard ID None has connected to Gateway (Session ID: f25f7aadb7c822d1a660498c6cd55e24).
+INFO       - 2025-03-30 04:17:52,813 - client         : logging in using static token
+INFO       - 2025-03-30 04:17:53,963 - gateway        : Shard ID None has connected to Gateway (Session ID: d5b75aea2489c3d332289656911d9279).
+INFO       - 2025-03-30 04:19:40,115 - client         : logging in using static token
+INFO       - 2025-03-30 04:19:41,223 - gateway        : Shard ID None has connected to Gateway (Session ID: e648059a3ac2f8501e3498d08ad1b4c6).
+ERROR      - 2025-03-30 04:19:59,678 - bot            : Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+INFO       - 2025-03-30 04:22:44,890 - client         : logging in using static token
+INFO       - 2025-03-30 04:22:46,249 - gateway        : Shard ID None has connected to Gateway (Session ID: 53616f128707f0c2364e9f7989388510).
+INFO       - 2025-03-30 04:40:16,407 - client         : logging in using static token
+INFO       - 2025-03-30 04:40:17,609 - gateway        : Shard ID None has connected to Gateway (Session ID: 353b3c450a67f3a71c3b88f454881b26).
+INFO       - 2025-03-30 04:41:20,833 - client         : logging in using static token
+INFO       - 2025-03-30 04:41:22,133 - gateway        : Shard ID None has connected to Gateway (Session ID: 91a84e14b464c6b4cfd1ec8e2c7254e1).
+INFO       - 2025-03-30 04:41:49,710 - client         : logging in using static token
+INFO       - 2025-03-30 04:41:50,849 - gateway        : Shard ID None has connected to Gateway (Session ID: e75c4fa691514e9f5fea03288e4e65bd).
+INFO       - 2025-03-30 04:42:36,402 - client         : logging in using static token
+INFO       - 2025-03-30 04:42:37,954 - gateway        : Shard ID None has connected to Gateway (Session ID: 59387d37d854a72ce2bc37d5057d6831).
+INFO       - 2025-03-30 04:43:42,406 - client         : logging in using static token
+INFO       - 2025-03-30 04:43:43,598 - gateway        : Shard ID None has connected to Gateway (Session ID: a19a29eaf4a151bd5adb3bbc7685c1cb).
+ERROR      - 2025-03-30 04:43:46,181 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\elev.py", line 7, in <module>
+    from elevenlabs import AsyncTextToSpeechClient
+ImportError: cannot import name 'AsyncTextToSpeechClient' from 'elevenlabs' (C:\Program Files\Python313\Lib\site-packages\elevenlabs\__init__.py)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 21, in on_ready
+    await bot.load_extension("cmds.elev")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.elev' raised an error: ImportError: cannot import name 'AsyncTextToSpeechClient' from 'elevenlabs' (C:\Program Files\Python313\Lib\site-packages\elevenlabs\__init__.py)
+INFO       - 2025-03-30 04:45:03,994 - client         : logging in using static token
+INFO       - 2025-03-30 04:45:05,192 - gateway        : Shard ID None has connected to Gateway (Session ID: 3d1f2c974be2f5c61246938d5c00fae2).
+ERROR      - 2025-03-30 04:45:07,750 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\elev.py", line 7, in <module>
+    from elevenlabs import AsyncTextToSpeechClient
+ImportError: cannot import name 'AsyncTextToSpeechClient' from 'elevenlabs' (C:\Program Files\Python313\Lib\site-packages\elevenlabs\__init__.py)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 21, in on_ready
+    await bot.load_extension("cmds.elev")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.elev' raised an error: ImportError: cannot import name 'AsyncTextToSpeechClient' from 'elevenlabs' (C:\Program Files\Python313\Lib\site-packages\elevenlabs\__init__.py)
+INFO       - 2025-03-30 04:45:41,543 - client         : logging in using static token
+INFO       - 2025-03-30 04:45:42,792 - gateway        : Shard ID None has connected to Gateway (Session ID: be40106aef632fe5741e865efc2e8d4e).
+ERROR      - 2025-03-30 04:45:45,364 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\elev.py", line 7, in <module>
+    from elevenlabs import ElevenLabsClient
+ImportError: cannot import name 'ElevenLabsClient' from 'elevenlabs' (C:\Program Files\Python313\Lib\site-packages\elevenlabs\__init__.py)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 21, in on_ready
+    await bot.load_extension("cmds.elev")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.elev' raised an error: ImportError: cannot import name 'ElevenLabsClient' from 'elevenlabs' (C:\Program Files\Python313\Lib\site-packages\elevenlabs\__init__.py)
+INFO       - 2025-03-30 04:46:34,865 - client         : logging in using static token
+INFO       - 2025-03-30 04:46:36,248 - gateway        : Shard ID None has connected to Gateway (Session ID: ea62853ad8f57e92f0cebade914df496).
+INFO       - 2025-03-30 04:47:19,181 - client         : logging in using static token
+INFO       - 2025-03-30 04:47:20,366 - gateway        : Shard ID None has connected to Gateway (Session ID: 039f58f508b563cc57692a1dde09171c).
+ERROR      - 2025-03-30 04:47:22,905 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\elev.py", line 7, in <module>
+    from elevenlabs import ElevenLabsClient  # Ensure you're importing the correct client
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'ElevenLabsClient' from 'elevenlabs' (C:\Program Files\Python313\Lib\site-packages\elevenlabs\__init__.py)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 21, in on_ready
+    await bot.load_extension("cmds.elev")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.elev' raised an error: ImportError: cannot import name 'ElevenLabsClient' from 'elevenlabs' (C:\Program Files\Python313\Lib\site-packages\elevenlabs\__init__.py)
+INFO       - 2025-03-30 04:49:47,828 - client         : logging in using static token
+INFO       - 2025-03-30 04:49:49,234 - gateway        : Shard ID None has connected to Gateway (Session ID: 968be1df2e45a0c5cec13d36ceabadf4).
+ERROR      - 2025-03-30 04:49:51,802 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\elev.py", line 7, in <module>
+    from elevenlabs import generate  # Correct import for text-to-speech
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'generate' from 'elevenlabs' (C:\Program Files\Python313\Lib\site-packages\elevenlabs\__init__.py)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 21, in on_ready
+    await bot.load_extension("cmds.elev")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.elev' raised an error: ImportError: cannot import name 'generate' from 'elevenlabs' (C:\Program Files\Python313\Lib\site-packages\elevenlabs\__init__.py)
+INFO       - 2025-03-30 04:50:48,903 - client         : logging in using static token
+INFO       - 2025-03-30 04:50:50,112 - gateway        : Shard ID None has connected to Gateway (Session ID: fe655d259a8e7d7d65ac1193178edfe9).
+ERROR      - 2025-03-30 04:50:52,689 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\elev.py", line 7, in <module>
+    from elevenlabs import ElevenLabsClient
+ImportError: cannot import name 'ElevenLabsClient' from 'elevenlabs' (C:\Program Files\Python313\Lib\site-packages\elevenlabs\__init__.py)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 21, in on_ready
+    await bot.load_extension("cmds.elev")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.elev' raised an error: ImportError: cannot import name 'ElevenLabsClient' from 'elevenlabs' (C:\Program Files\Python313\Lib\site-packages\elevenlabs\__init__.py)
+INFO       - 2025-03-30 04:51:32,813 - client         : logging in using static token
+INFO       - 2025-03-30 04:51:33,972 - gateway        : Shard ID None has connected to Gateway (Session ID: 7f8e95c31b5a24e150f87a3c6d292ee7).
+INFO       - 2025-03-30 05:01:30,247 - client         : logging in using static token
+INFO       - 2025-03-30 05:01:31,543 - gateway        : Shard ID None has connected to Gateway (Session ID: 115f7726ffc61edb034b08830f94d99f).
+INFO       - 2025-03-30 05:05:21,284 - client         : logging in using static token
+INFO       - 2025-03-30 05:05:22,427 - gateway        : Shard ID None has connected to Gateway (Session ID: c4490d7ac5f0be4f026c855dccd0547d).
+INFO       - 2025-03-30 05:11:02,166 - client         : logging in using static token
+INFO       - 2025-03-30 05:11:03,591 - gateway        : Shard ID None has connected to Gateway (Session ID: c19170ac24f713d22940b31ee56afcb1).
+INFO       - 2025-03-30 20:56:07,037 - client         : logging in using static token
+INFO       - 2025-03-30 20:56:08,230 - gateway        : Shard ID None has connected to Gateway (Session ID: 2b838e7ddee568e815e89aa305ee84f2).
+INFO       - 2025-03-30 20:56:38,287 - client         : logging in using static token
+INFO       - 2025-03-30 20:56:39,940 - gateway        : Shard ID None has connected to Gateway (Session ID: 299b5de4dfd20a60b833046541c63a47).
+INFO       - 2025-03-30 20:57:03,409 - client         : logging in using static token
+INFO       - 2025-03-30 20:57:04,677 - gateway        : Shard ID None has connected to Gateway (Session ID: c114670bdd97485515c777dd5682e7ce).
+INFO       - 2025-03-30 21:32:19,050 - client         : logging in using static token
+INFO       - 2025-03-30 21:32:20,277 - gateway        : Shard ID None has connected to Gateway (Session ID: 9b9c1350c8ab539f89dceee5694bae5a).
+ERROR      - 2025-03-30 21:32:22,332 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 957, in _load_from_module_spec
+    setup = getattr(lib, 'setup')
+AttributeError: module 'cmds.warns' has no attribute 'setup'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 960, in _load_from_module_spec
+    raise errors.NoEntryPointError(key)
+discord.ext.commands.errors.NoEntryPointError: Extension 'cmds.warns' has no 'setup' function.
+INFO       - 2025-03-30 21:32:44,708 - client         : logging in using static token
+INFO       - 2025-03-30 21:32:46,326 - gateway        : Shard ID None has connected to Gateway (Session ID: bbc45f23dc47b151144f8a434902efca).
+ERROR      - 2025-03-30 21:32:48,377 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 24, in on_ready
+    bot.tree.copy_global_to(guild=None)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\tree.py", line 264, in copy_global_to
+    mapping = self._guild_commands[guild.id].copy()
+                                   ^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'id'
+INFO       - 2025-03-30 21:33:18,990 - client         : logging in using static token
+INFO       - 2025-03-30 21:33:20,321 - gateway        : Shard ID None has connected to Gateway (Session ID: e44b945d2b61df8eca1ce11613a0f0e6).
+ERROR      - 2025-03-30 21:33:22,374 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 24, in on_ready
+    bot.tree.copy_global_to(guild=None)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\tree.py", line 264, in copy_global_to
+    mapping = self._guild_commands[guild.id].copy()
+                                   ^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'id'
+INFO       - 2025-03-30 21:34:39,620 - client         : logging in using static token
+INFO       - 2025-03-30 21:34:41,001 - gateway        : Shard ID None has connected to Gateway (Session ID: 7140a9cbb9f2e7fea8ff862621c47e46).
+ERROR      - 2025-03-30 21:34:43,018 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 24, in on_ready
+    bot.tree.copy_global_to(guild=None)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\tree.py", line 264, in copy_global_to
+    mapping = self._guild_commands[guild.id].copy()
+                                   ^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'id'
+INFO       - 2025-03-30 21:35:19,599 - client         : logging in using static token
+INFO       - 2025-03-30 21:35:20,718 - gateway        : Shard ID None has connected to Gateway (Session ID: de144f6207c4212baaf8be9fd27bb066).
+ERROR      - 2025-03-30 21:35:22,736 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 21, in on_ready
+    bot.tree.copy_global_to(guild=None)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\tree.py", line 264, in copy_global_to
+    mapping = self._guild_commands[guild.id].copy()
+                                   ^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'id'
+INFO       - 2025-03-30 21:35:55,281 - client         : logging in using static token
+INFO       - 2025-03-30 21:35:56,536 - gateway        : Shard ID None has connected to Gateway (Session ID: 146a1deac9548a38102dc9eedb9318be).
+ERROR      - 2025-03-30 21:35:58,586 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 21, in on_ready
+    bot.tree.copy_global_to(guild=None)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\tree.py", line 264, in copy_global_to
+    mapping = self._guild_commands[guild.id].copy()
+                                   ^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'id'
+INFO       - 2025-03-30 21:36:30,778 - client         : logging in using static token
+INFO       - 2025-03-30 21:36:32,329 - gateway        : Shard ID None has connected to Gateway (Session ID: a6eb4a044767bae5b03f1dbab07174f8).
+INFO       - 2025-03-30 21:41:13,282 - client         : logging in using static token
+INFO       - 2025-03-30 21:41:14,563 - gateway        : Shard ID None has connected to Gateway (Session ID: 4ee6e80aab362b8c6cd8504dec23ca5e).
+INFO       - 2025-03-31 00:15:49,767 - client         : logging in using static token
+INFO       - 2025-03-31 00:16:29,528 - client         : logging in using static token
+INFO       - 2025-03-31 00:17:14,181 - client         : logging in using static token
+INFO       - 2025-03-31 00:18:17,671 - client         : logging in using static token
+INFO       - 2025-03-31 00:18:55,511 - client         : logging in using static token
+INFO       - 2025-03-31 00:20:07,224 - client         : logging in using static token
+INFO       - 2025-03-31 00:20:51,288 - client         : logging in using static token
+INFO       - 2025-03-31 00:22:09,220 - client         : logging in using static token
+INFO       - 2025-03-31 00:22:10,366 - gateway        : Shard ID None has connected to Gateway (Session ID: e42c083660a4e3cc5c1f0e5928098cb6).
+INFO       - 2025-03-31 00:22:31,732 - client         : logging in using static token
+INFO       - 2025-03-31 00:22:33,009 - gateway        : Shard ID None has connected to Gateway (Session ID: eb24e71cbfcb80b42f40f17d6d19cfa8).
+INFO       - 2025-03-31 00:48:24,721 - client         : logging in using static token
+INFO       - 2025-03-31 00:48:25,959 - gateway        : Shard ID None has connected to Gateway (Session ID: dedd97413231369054e00020684db9a1).
+INFO       - 2025-03-31 00:55:59,659 - client         : logging in using static token
+INFO       - 2025-03-31 00:56:00,985 - gateway        : Shard ID None has connected to Gateway (Session ID: 3bd94420293ec3e873deb94f8939c550).
+INFO       - 2025-03-31 00:58:23,650 - client         : logging in using static token
+INFO       - 2025-03-31 00:58:24,962 - gateway        : Shard ID None has connected to Gateway (Session ID: 9961acd399bcba68c333edced3d5b423).
+INFO       - 2025-03-31 01:04:56,499 - client         : logging in using static token
+INFO       - 2025-03-31 01:04:57,800 - gateway        : Shard ID None has connected to Gateway (Session ID: dc2fec46d966f589ec4b06fbe4eabbaf).
+INFO       - 2025-03-31 01:13:02,870 - client         : logging in using static token
+INFO       - 2025-03-31 01:13:07,569 - gateway        : Shard ID None has connected to Gateway (Session ID: ae9b5a14c9922cf64559be5997309090).
+INFO       - 2025-03-31 01:14:01,853 - client         : logging in using static token
+INFO       - 2025-03-31 01:14:03,031 - gateway        : Shard ID None has connected to Gateway (Session ID: 2d9eeaae6f2b5655af8e5488d6127db4).
+INFO       - 2025-03-31 01:15:48,313 - client         : logging in using static token
+INFO       - 2025-03-31 01:15:49,593 - gateway        : Shard ID None has connected to Gateway (Session ID: 2a487b9d37e041a74cad89e13dc3f13d).
+INFO       - 2025-03-31 01:18:18,559 - client         : logging in using static token
+INFO       - 2025-03-31 01:18:19,804 - gateway        : Shard ID None has connected to Gateway (Session ID: 652d20cbbe1dd20470bb896e3e70ba17).
+INFO       - 2025-03-31 01:19:40,980 - client         : logging in using static token
+INFO       - 2025-03-31 01:19:42,197 - gateway        : Shard ID None has connected to Gateway (Session ID: bbc06b43761d6872afeacfa04e3da4fc).
+INFO       - 2025-03-31 01:24:31,787 - client         : logging in using static token
+INFO       - 2025-03-31 01:24:33,118 - gateway        : Shard ID None has connected to Gateway (Session ID: 801d69717e732dca353bf1cb6e5766d3).
+INFO       - 2025-03-31 01:27:28,885 - client         : logging in using static token
+INFO       - 2025-03-31 01:27:30,113 - gateway        : Shard ID None has connected to Gateway (Session ID: a3cd132c00d3f59594f6034f1fb215a5).
+INFO       - 2025-03-31 01:33:33,759 - client         : logging in using static token
+INFO       - 2025-03-31 01:33:35,048 - gateway        : Shard ID None has connected to Gateway (Session ID: f040440bda76799b57f624a030bc5d1f).
+INFO       - 2025-03-31 01:41:19,645 - client         : logging in using static token
+INFO       - 2025-03-31 01:41:20,886 - gateway        : Shard ID None has connected to Gateway (Session ID: f4ce31ffe53110e3635c50f1e6356b4c).
