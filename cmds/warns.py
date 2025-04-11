@@ -34,7 +34,7 @@ class warn_commands(commands.Cog):
                              value=(f"Admin: `{admin}`\nWarned user: `{user}`"
                              f"\nUser ID: ||{user.id}||"
                              f"\nReason: {reason}"))
-             
+             embed.set_thumbnail(url=user.display_avatar.url)
              await user.send(embed=embed)
 
         else:
@@ -44,9 +44,8 @@ class warn_commands(commands.Cog):
                             f"\nWarned user: `{user}`"
                             f"\nUser ID: ||{user.id}||"))
             
-            await user.send(embed=embed)
-
-        embed.set_thumbnail(url=user.display_avatar.url)
+            embed.set_thumbnail(url=user.display_avatar.url)
+await user.send(embed=embed)
 
         await interaction.response.send_message(embed=embed)
 
