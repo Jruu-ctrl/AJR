@@ -1,2 +1,2 @@
-# bot-lilbaby
+# bot-lilAJR
 the future bot
