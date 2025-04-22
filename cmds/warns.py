@@ -34,7 +34,7 @@ class warn_commands(commands.Cog):
                              value=(f"Admin: `{admin}`\nWarned user: `{user}`"
                              f"\nUser ID: ||{user.id}||"
                              f"\nReason: {reason}"))
-             embed.set_thumbnail(url=user.display_avatar.url)
+             
              await user.send(embed=embed)
 
         else:
@@ -44,13 +44,14 @@ class warn_commands(commands.Cog):
                             f"\nWarned user: `{user}`"
                             f"\nUser ID: ||{user.id}||"))
             
-            embed.set_thumbnail(url=user.display_avatar.url)
-await user.send(embed=embed)
+            await user.send(embed=embed)
+
+        embed.set_thumbnail(url=user.display_avatar.url)
 
         await interaction.response.send_message(embed=embed)
 
 
-    @app_commands.command(name="ban_forum", description="Ban a user for rule violations. The ban is logged for moderation purposes.")
+    @app_commands.command(name="timeout", description="Timeout a user for rule violations. The ban is logged for moderation purposes.")
     @app_commands.describe(
         user="The user to ban",
         duration="The duration of the ban (e.g., 7d or permanent)",
@@ -79,10 +80,10 @@ await user.send(embed=embed)
             colour=discord.Colour.from_rgb(9, 13, 138)
             )
 
-        embed.add_field(name="Ban Details",
+        embed.add_field(name="Timeout Details",
                         value=(
                         f"Admin: `{admin}`"
-                        f"\nWarned user: `{user}`"
+                        f"\nTimeouted user: `{user}`"
                         f"\nUserID: ||{user.id}|| "
                         f"\nDuration: {duration} "
                         f"\nReason: {reason}"
