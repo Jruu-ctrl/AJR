@@ -1,2 +1,2 @@
-# bot-lilAJR
+# bot-AJR
 the future bot
