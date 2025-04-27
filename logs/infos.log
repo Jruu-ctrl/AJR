@@ -3501,3 +3501,383 @@ INFO       - 2025-03-31 01:33:33,759 - client         : logging in using static 
 INFO       - 2025-03-31 01:33:35,048 - gateway        : Shard ID None has connected to Gateway (Session ID: f040440bda76799b57f624a030bc5d1f).
 INFO       - 2025-03-31 01:41:19,645 - client         : logging in using static token
 INFO       - 2025-03-31 01:41:20,886 - gateway        : Shard ID None has connected to Gateway (Session ID: f4ce31ffe53110e3635c50f1e6356b4c).
+INFO       - 2025-04-16 20:24:32,001 - client         : logging in using static token
+INFO       - 2025-04-16 20:24:33,209 - gateway        : Shard ID None has connected to Gateway (Session ID: 61ff7d1c9678ed459b5c08840358446e).
+ERROR      - 2025-04-16 20:24:35,244 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\warns.py", line 6, in <module>
+    class warn_commands(commands.Cog):
+    ...<111 lines>...
+                return
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\warns.py", line 54, in warn_commands
+    @app_commands.command(name="Timeout", description="Ban a user for rule violations. The ban is logged for moderation purposes.")
+     ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 2060, in decorator
+    return Command(
+        name=name if name is not MISSING else func.__name__,
+    ...<5 lines>...
+        extras=extras,
+    )
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 666, in __init__
+    self.name: str = validate_name(name)
+                     ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 210, in validate_name
+    raise ValueError(f'{name!r} must be all lower-case')
+ValueError: 'Timeout' must be all lower-case
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.warns' raised an error: ValueError: 'Timeout' must be all lower-case
+INFO       - 2025-04-16 20:25:53,574 - client         : logging in using static token
+INFO       - 2025-04-16 20:25:54,906 - gateway        : Shard ID None has connected to Gateway (Session ID: 9234844b3e4db0e8bf800231d2cfe43a).
+ERROR      - 2025-04-16 20:25:56,925 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\warns.py", line 6, in <module>
+    class warn_commands(commands.Cog):
+    ...<111 lines>...
+                return
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\warns.py", line 54, in warn_commands
+    @app_commands.command(name="Timeout", description="Timeout a user for rule violations. The ban is logged for moderation purposes.")
+     ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 2060, in decorator
+    return Command(
+        name=name if name is not MISSING else func.__name__,
+    ...<5 lines>...
+        extras=extras,
+    )
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 666, in __init__
+    self.name: str = validate_name(name)
+                     ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 210, in validate_name
+    raise ValueError(f'{name!r} must be all lower-case')
+ValueError: 'Timeout' must be all lower-case
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 22, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.warns' raised an error: ValueError: 'Timeout' must be all lower-case
+INFO       - 2025-04-16 20:26:19,459 - client         : logging in using static token
+INFO       - 2025-04-16 20:26:20,772 - gateway        : Shard ID None has connected to Gateway (Session ID: e158648f9633b4f024f7d058db17ce8b).
+INFO       - 2025-04-18 19:52:44,300 - client         : logging in using static token
+INFO       - 2025-04-18 19:52:45,920 - gateway        : Shard ID None has connected to Gateway (Session ID: 2a4ed8cf37de13aeee077edcf5886228).
+INFO       - 2025-04-18 19:53:31,258 - client         : logging in using static token
+INFO       - 2025-04-18 19:53:32,593 - gateway        : Shard ID None has connected to Gateway (Session ID: a76c4865480f197eae5ddaabf86bfe40).
+INFO       - 2025-04-18 20:08:14,149 - client         : logging in using static token
+INFO       - 2025-04-18 20:08:15,615 - gateway        : Shard ID None has connected to Gateway (Session ID: 0531b98fa84cf253ddecd0154d582e52).
+INFO       - 2025-04-18 20:10:02,793 - client         : logging in using static token
+INFO       - 2025-04-18 20:10:04,173 - gateway        : Shard ID None has connected to Gateway (Session ID: 3fb608d3ccab2a91f582fbb90a3fdb98).
+ERROR      - 2025-04-18 20:10:06,206 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\adhan.py", line 11, in <module>
+    vc_id = settings.VC_ID
+            ^^^^^^^^^^^^^^
+AttributeError: module 'settings' has no attribute 'VC_ID'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 32, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.adhan' raised an error: AttributeError: module 'settings' has no attribute 'VC_ID'
+INFO       - 2025-04-18 20:10:52,846 - client         : logging in using static token
+INFO       - 2025-04-18 20:10:54,412 - gateway        : Shard ID None has connected to Gateway (Session ID: 387359cbd0f791840ffdbe1eed14feb6).
+ERROR      - 2025-04-18 20:10:56,430 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\adhan.py", line 11, in <module>
+    vc_id = settings.VC_ID
+            ^^^^^^^^^^^^^^
+AttributeError: module 'settings' has no attribute 'VC_ID'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 32, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.adhan' raised an error: AttributeError: module 'settings' has no attribute 'VC_ID'
+INFO       - 2025-04-18 20:11:46,378 - client         : logging in using static token
+INFO       - 2025-04-18 20:11:48,388 - gateway        : Shard ID None has connected to Gateway (Session ID: 4617103393800f4b09af995483da41fe).
+ERROR      - 2025-04-18 20:11:50,690 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\adhan.py", line 11, in <module>
+    vc_id = settings.VC_ID
+            ^^^^^^^^^^^^^^
+AttributeError: module 'settings' has no attribute 'VC_ID'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 28, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.adhan' raised an error: AttributeError: module 'settings' has no attribute 'VC_ID'
+INFO       - 2025-04-18 20:12:23,725 - client         : logging in using static token
+INFO       - 2025-04-18 20:12:24,977 - gateway        : Shard ID None has connected to Gateway (Session ID: 0993cb5602ded1fac290f61b9a160939).
+ERROR      - 2025-04-18 20:12:27,302 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\adhan.py", line 11, in <module>
+    vc_id = settings.VC_ID
+            ^^^^^^^^^^^^^^
+AttributeError: module 'settings' has no attribute 'VC_ID'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 28, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.adhan' raised an error: AttributeError: module 'settings' has no attribute 'VC_ID'
+INFO       - 2025-04-18 20:13:18,131 - client         : logging in using static token
+INFO       - 2025-04-18 20:13:19,503 - gateway        : Shard ID None has connected to Gateway (Session ID: f18a79c17c0a1c7cb6162f3dc8ebb9ae).
+ERROR      - 2025-04-18 20:13:21,828 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\adhan.py", line 11, in <module>
+    vc_id = settings.VC_ID
+            ^^^^^^^^^^^^^^
+AttributeError: module 'settings' has no attribute 'VC_ID'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 28, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.adhan' raised an error: AttributeError: module 'settings' has no attribute 'VC_ID'
+INFO       - 2025-04-18 20:14:46,814 - client         : logging in using static token
+INFO       - 2025-04-18 20:14:47,996 - gateway        : Shard ID None has connected to Gateway (Session ID: cfafe87d4a48df11fe47a37790cda0e3).
+INFO       - 2025-04-18 20:30:46,725 - gateway        : Shard ID None has successfully RESUMED session cfafe87d4a48df11fe47a37790cda0e3.
+INFO       - 2025-04-21 15:59:01,887 - client         : logging in using static token
+INFO       - 2025-04-21 15:59:07,661 - gateway        : Shard ID None has connected to Gateway (Session ID: 0e3c306a165556af6c32f8a1868454fb).
+ERROR      - 2025-04-21 15:59:09,674 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1022, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1160, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1090, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\move.py", line 16
+    channel:discord.)
+                    ^
+SyntaxError: invalid syntax
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 28, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.move' raised an error: SyntaxError: invalid syntax (move.py, line 16)
+INFO       - 2025-04-21 16:04:34,806 - client         : logging in using static token
+INFO       - 2025-04-21 16:04:36,251 - gateway        : Shard ID None has connected to Gateway (Session ID: 5217c766efa2a88ab8c95878abfecc1d).
+ERROR      - 2025-04-21 16:04:38,291 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 963, in _load_from_module_spec
+    await setup(self)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\warns.py", line 122, in setup
+    await bot.add_cog(warn_commands(bot))
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 793, in add_cog
+    raise discord.ClientException(f'Cog named {cog_name!r} already loaded')
+discord.errors.ClientException: Cog named 'warn_commands' already loaded
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 28, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 968, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.warns' raised an error: ClientException: Cog named 'warn_commands' already loaded
+INFO       - 2025-04-21 16:05:11,918 - client         : logging in using static token
+INFO       - 2025-04-21 16:05:13,305 - gateway        : Shard ID None has connected to Gateway (Session ID: daba8a9a9b574e4b18638277ae1ae131).
+INFO       - 2025-04-21 16:23:15,520 - client         : logging in using static token
+INFO       - 2025-04-21 16:23:16,873 - gateway        : Shard ID None has connected to Gateway (Session ID: 8b25d5ce30b083bd62b7cd5aaf40e667).
+ERROR      - 2025-04-21 16:23:18,901 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 951, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\move.py", line 6, in <module>
+    class move_command(commands.Cog):
+    ...<19 lines>...
+            await interaction.respons.send_message(embed=embed)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\move.py", line 9, in move_command
+    @app_commands.command(name="move",description="move so to x channel.")
+     ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 2060, in decorator
+    return Command(
+        name=name if name is not MISSING else func.__name__,
+    ...<5 lines>...
+        extras=extras,
+    )
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 687, in __init__
+    self._params: Dict[str, CommandParameter] = _extract_parameters_from_callback(callback, callback.__globals__)
+                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 398, in _extract_parameters_from_callback
+    _populate_descriptions(result, descriptions)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 286, in _populate_descriptions
+    raise TypeError(f'unknown parameter given: {first}')
+TypeError: unknown parameter given: user
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 28, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 954, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.move' raised an error: TypeError: unknown parameter given: user
+INFO       - 2025-04-21 16:23:36,847 - client         : logging in using static token
+INFO       - 2025-04-21 16:23:38,268 - gateway        : Shard ID None has connected to Gateway (Session ID: ff926e2cabb4fd377f4d4f79f9100990).
+INFO       - 2025-04-21 16:27:06,382 - client         : logging in using static token
+INFO       - 2025-04-21 16:27:07,658 - gateway        : Shard ID None has connected to Gateway (Session ID: e3ba330bd3f42aefc874cc7832fdbdfc).
+INFO       - 2025-04-21 21:23:50,672 - client         : logging in using static token
+INFO       - 2025-04-21 21:23:52,075 - gateway        : Shard ID None has connected to Gateway (Session ID: 1c99cf6249d858848a4b3243155347c1).
+INFO       - 2025-04-21 21:27:10,612 - client         : logging in using static token
+INFO       - 2025-04-21 21:27:12,268 - gateway        : Shard ID None has connected to Gateway (Session ID: 9d08851bd50c58c1f3b85250ef0bc5b0).
+INFO       - 2025-04-21 21:30:06,366 - client         : logging in using static token
+INFO       - 2025-04-21 21:30:07,709 - gateway        : Shard ID None has connected to Gateway (Session ID: de9353d040ca4666b8325b9cead5c337).
+INFO       - 2025-04-21 21:31:02,731 - client         : logging in using static token
+INFO       - 2025-04-21 21:31:04,012 - gateway        : Shard ID None has connected to Gateway (Session ID: c009f20f7aa7b78cedb3b7e8ec620800).
+INFO       - 2025-04-21 21:35:47,737 - client         : logging in using static token
+INFO       - 2025-04-21 21:35:49,025 - gateway        : Shard ID None has connected to Gateway (Session ID: b94d92ecf0f770d95837fb1c4c60397a).
+INFO       - 2025-04-26 15:30:38,176 - client         : logging in using static token
+INFO       - 2025-04-26 15:30:39,415 - gateway        : Shard ID None has connected to Gateway (Session ID: 4b2db705a8e5d3a77fc7885fba5a2574).
+INFO       - 2025-04-26 15:32:43,514 - client         : logging in using static token
+INFO       - 2025-04-26 15:32:44,921 - gateway        : Shard ID None has connected to Gateway (Session ID: 60474c55a1c914942ade7fe2f2731f09).
+ERROR      - 2025-04-26 15:32:46,949 - client         : Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 963, in _load_from_module_spec
+    await setup(self)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\cmds\help.py", line 51, in setup
+    await bot.add_cog(help_commands(bot))
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 799, in add_cog
+    cog = await cog._inject(self, override=override, guild=guild, guilds=guilds)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\cog.py", line 725, in _inject
+    raise e
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\cog.py", line 716, in _inject
+    bot.add_command(command)
+    ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 253, in add_command
+    super().add_command(command)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\core.py", line 1356, in add_command
+    raise CommandRegistrationError(command.name)
+discord.ext.commands.errors.CommandRegistrationError: The command help is already an existing command or alias.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\jruan\Desktop\Jruu\AJR\main.py", line 28, in on_ready
+    await bot.load_extension(f"cmds.{file.name[:-3]}")
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\jruan\AppData\Roaming\Python\Python313\site-packages\discord\ext\commands\bot.py", line 968, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cmds.help' raised an error: CommandRegistrationError: The command help is already an existing command or alias.
+INFO       - 2025-04-26 15:35:34,625 - client         : logging in using static token
+INFO       - 2025-04-26 15:35:37,217 - gateway        : Shard ID None has connected to Gateway (Session ID: 0465a52d2f683dad091ed7decfd8afed).
+INFO       - 2025-04-26 15:46:34,724 - client         : logging in using static token
+INFO       - 2025-04-26 15:46:36,120 - gateway        : Shard ID None has connected to Gateway (Session ID: ff791e6352527f05bf15b134cf46faca).
+INFO       - 2025-04-27 21:13:39,985 - client         : logging in using static token
+INFO       - 2025-04-27 21:13:42,611 - gateway        : Shard ID None has connected to Gateway (Session ID: e7341c8012908b275ad5d118774a21cb).
+INFO       - 2025-04-27 21:24:40,908 - client         : logging in using static token
+INFO       - 2025-04-27 21:24:42,387 - gateway        : Shard ID None has connected to Gateway (Session ID: 870b7efce392bfa75023b3dc15026834).

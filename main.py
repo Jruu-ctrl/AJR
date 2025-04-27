@@ -9,14 +9,20 @@ def run():
     intents=discord.Intents.default()
     intents.message_content= True
     
-    bot = commands.Bot(command_prefix="!",intents=intents)
+    bot = commands.Bot(command_prefix="!",intents=intents,help_command=None)
     
     @bot.event
     async def on_ready():
         logger.info(f"user:{bot.user}(ID:{bot.user.id})")
+        print(r"""
+            _       _ ____  
+           / \     | |  _ \ 
+          / _ \ _  | | |_) |
+         / ___ \ |_| |  _ < 
+        /_/   \_\___/|_| \_\
+								""")
         print(bot.user)
         print(bot.user.id)
-
 
         for file in settings.CMDS_DIR.glob("*.py"):
             await bot.load_extension(f"cmds.{file.name[:-3]}")
@@ -31,11 +37,11 @@ def run():
     @bot.tree.command(description="Module refresh initiated")
     @app_commands.describe(module="Module to refresh:")
     async def reload(interaction:discord.Interaction,module:str):
-        if interaction.guild.get_role(1290411720791294093) in interaction.user.roles :
+        if interaction.user.id == 1231632325062950922 :
             await bot.reload_extension(f"cmds.{module.lower()}")
-            await interaction.response.send_message(f"✅Successfully reloaded {module}",ephemeral=True)
+            await interaction.response.send_message(f"Successfully reloaded **{module}** 🪐",ephemeral=True)
         else:
-            await interaction.response.send_message(f"You do not have the `{interaction.guild.get_role(1290411720791294093).name}` role required to execute this command.",ephemeral=True)
+            await interaction.response.send_message(f"**only Jruu can use this command 🧸**",ephemeral=True)
 
 
     @bot.tree.error
